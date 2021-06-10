@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+50	100	Tournament(2)	PMX	0.6	Insert	0.3		285.02	1.0675204916066012
+50	100	Tournament(2)	PMX	0.7	Insert	0.3		284.7	1.0246950765959595
+50	100	Tournament(2)	PMX	0.8	Insert	0.3		284.42	0.6029925372672532
+50	100	Tournament(2)	OX	0.6	Insert	0.3		286.08	1.5078461459976615
+50	100	Tournament(2)	OX	0.7	Insert	0.3		286.4	1.32664991614216
+50	100	Tournament(2)	OX	0.8	Insert	0.3		286.48	1.5131424255502188
+50	100	Tournament(2)	CX2	0.6	Insert	0.3		286.26	1.682973558912915
+50	100	Tournament(2)	CX2	0.7	Insert	0.3		286.96	1.4136477637657832
+50	100	Tournament(2)	CX2	0.8	Insert	0.3		286.98	1.476346842716846

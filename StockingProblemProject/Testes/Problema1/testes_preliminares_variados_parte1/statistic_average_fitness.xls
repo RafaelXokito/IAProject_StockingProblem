@@ -1,0 +1,55 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:		Config:				Average:										
+50	100	Tournament(2)	PMX	0.6	Insert	0.2		285.48	1.499.866.660.740.210																
+50	100	Tournament(2)	PMX	0.6	Insert	0.3		285.02	10.675.204.916.066.000																
+50	100	Tournament(2)	PMX	0.6	Insert	0.4		284.68	0.947417543																
+50	100	Tournament(2)	PMX	0.7	Insert	0.2		285.14	12.963.024.338.479.000		PMX	0.8	Insert	0.3	284.42				Min:	284.2	PMX	0.7	Insert	0.4	
+50	100	Tournament(2)	PMX	0.7	Insert	0.3		284.7	10.246.950.765.959.500																
+50	100	Tournament(2)	PMX	0.7	Insert	0.4		284.6	0.871779789											MaxGenerations	Avg				
+50	100	Tournament(2)	PMX	0.8	Insert	0.2		284.84	1.137.717.012.266.230										Avg Max Generationns:	100	286.0385185				
+50	100	Tournament(2)	PMX	0.8	Insert	0.3		284.42	0.602992537											150	285.5896296				
+50	100	Tournament(2)	PMX	0.8	Insert	0.4		284.52	0.699714227																
+50	100	Tournament(2)	OX	0.6	Insert	0.2		286.64	15.331.014.317.389.400																
+50	100	Tournament(2)	OX	0.6	Insert	0.3		286.08	15.078.461.459.976.600																
+50	100	Tournament(2)	OX	0.6	Insert	0.4		286.1	15.132.745.950.421.500																
+50	100	Tournament(2)	OX	0.7	Insert	0.2		286.26	15.976.232.346.833.200		OX	0.6	Insert	0.3	286.08										
+50	100	Tournament(2)	OX	0.7	Insert	0.3		286.4	132.664.991.614.216																
+50	100	Tournament(2)	OX	0.7	Insert	0.4		286.84	13.763.720.427.268.200																
+50	100	Tournament(2)	OX	0.8	Insert	0.2		286.88	1.243.221.621.433.600																
+50	100	Tournament(2)	OX	0.8	Insert	0.3		286.48	15.131.424.255.502.100																
+50	100	Tournament(2)	OX	0.8	Insert	0.4		286.92	15.727.682.601.070.000																
+50	100	Tournament(2)	CX2	0.6	Insert	0.2		285.9	16.522.711.641.858.300																
+50	100	Tournament(2)	CX2	0.6	Insert	0.3		286.26	1.682.973.558.912.910																
+50	100	Tournament(2)	CX2	0.6	Insert	0.4		286.62	15.477.725.931.156.600																
+50	100	Tournament(2)	CX2	0.7	Insert	0.2		287.04	15.486.768.546.084.700		CX2	0.6	Insert	0.2	285.9										
+50	100	Tournament(2)	CX2	0.7	Insert	0.3		286.96	14.136.477.637.657.800																
+50	100	Tournament(2)	CX2	0.7	Insert	0.4		286.7	1.526.433.752.247.370																
+50	100	Tournament(2)	CX2	0.8	Insert	0.2		287.3	13.601.470.508.735.400																
+50	100	Tournament(2)	CX2	0.8	Insert	0.3		286.98	1.476.346.842.716.840																
+50	100	Tournament(2)	CX2	0.8	Insert	0.4		287.28	12.655.433.615.645.100																
+50	150	Tournament(2)	PMX	0.6	Insert	0.2		285.22	1.500.533.238.552.210																
+50	150	Tournament(2)	PMX	0.6	Insert	0.3		284.82	10.137.060.717.979.300																
+50	150	Tournament(2)	PMX	0.6	Insert	0.4		284.54	0.829698741																
+50	150	Tournament(2)	PMX	0.7	Insert	0.2		284.94	10.470.912.090.166.700		PMX	0.7	Insert	0.4	284.2										
+50	150	Tournament(2)	PMX	0.7	Insert	0.3		284.62	1.037.111.372.997.130																
+50	150	Tournament(2)	PMX	0.7	Insert	0.4		284.2	0.4																
+50	150	Tournament(2)	PMX	0.8	Insert	0.2		284.58	0.981631295																
+50	150	Tournament(2)	PMX	0.8	Insert	0.3		284.26	0.482078832																
+50	150	Tournament(2)	PMX	0.8	Insert	0.4		284.22	0.46																
+50	150	Tournament(2)	OX	0.6	Insert	0.2		286.12	15.574.337.867.145.400																
+50	150	Tournament(2)	OX	0.6	Insert	0.3		285.66	13.944.174.410.842.600																
+50	150	Tournament(2)	OX	0.6	Insert	0.4		285.78	13.753.544.997.563.300																
+50	150	Tournament(2)	OX	0.7	Insert	0.2		285.84	14.880.860.190.190.600		OX	0.6	Insert	0.3	285.66										
+50	150	Tournament(2)	OX	0.7	Insert	0.3		285.98	13.926.952.286.842.900																
+50	150	Tournament(2)	OX	0.7	Insert	0.4		286.02	12.882.546.332.150.300																
+50	150	Tournament(2)	OX	0.8	Insert	0.2		286.06	12.232.742.946.698.400																
+50	150	Tournament(2)	OX	0.8	Insert	0.3		285.78	12.213.107.712.617.600																
+50	150	Tournament(2)	OX	0.8	Insert	0.4		286.4	15.362.291.495.737.200																
+50	150	Tournament(2)	CX2	0.6	Insert	0.2		285.22	13.607.350.954.539.200																
+50	150	Tournament(2)	CX2	0.6	Insert	0.3		285.58	1.297.536.126.664.680																
+50	150	Tournament(2)	CX2	0.6	Insert	0.4		286.24	14.907.716.122.867.300																
+50	150	Tournament(2)	CX2	0.7	Insert	0.2		286.04	156.153.770.367.545		CX2	0.6	Insert	0.2	285.22										
+50	150	Tournament(2)	CX2	0.7	Insert	0.3		286.48	14.316.424.134.538.600																
+50	150	Tournament(2)	CX2	0.7	Insert	0.4		286.06	14.340.153.416.194.600																
+50	150	Tournament(2)	CX2	0.8	Insert	0.2		286.76	1.225.724.275.683.560																
+50	150	Tournament(2)	CX2	0.8	Insert	0.3		286.58	13.724.430.771.438.200																
+50	150	Tournament(2)	CX2	0.8	Insert	0.4		286.92	12.139.192.724.394.800																

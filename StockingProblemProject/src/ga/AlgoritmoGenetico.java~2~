@@ -1,0 +1,109 @@
+package ag;
+
+public class AlgoritmoGenetico {
+  public int tamanhoPopulacao;
+  public int tamanhoIndividuos;
+  public int maximoGeracoes;
+  private Populacao populacaoActual;
+  private Populacao populacaoAuxiliar;
+  private Mutacao operadorMutacao;
+  private int geracao;
+
+  //Estatísticas
+  Individuo melhorIndividuoGeracao;
+  double mediaGeracao;
+  Individuo melhorIndividuoRun;
+  int geracaoMelhorIndividuoRun;
+
+  public AlgoritmoGenetico(long seed, int tamanhoPopulacao, int tamanhoIndividuos,
+                           int maximoGeracoes, MetodoSeleccao metodoSeleccao,
+                           Recombinacao operadorRecombinacao, Mutacao operadorMutacao){
+
+    aleatorio = new Random(seed);
+    this.tamanhoPopulacao = tamanhoPopulacao;
+    this.tamanhoIndividuos = tamanhoIndividuos;
+    this.maximoGeracoes = maximoGeracoes;
+    this.metodoSeleccao = metodoSeleccao;
+    this.operadorRecombinacao = operadorRecombinacao;
+    this.operadorMutacao = operadorMutacao;
+  }
+
+  public Individuo executar(){
+    populacaoActual = new Populacao(tamanhoPopulacao, tamanhoIndividuos);
+    populacaoAuxiliar = new Populacao(tamanhoPopulacao);
+    geracao = 0;
+
+    avaliar(populacaoActual);
+
+    while (!criterioParagem(populacaoActual, geracao)) {
+      seleccao(populacaoActual, populacaoAuxiliar);
+      recombinacao(populacaoAuxiliar);
+      mutacao(populacaoAuxiliar);
+      populacaoActual = criarNovaPopulacao(populacaoActual, populacaoAuxiliar);
+      geracao++;
+      avaliar(populacaoActual);
+    }
+
+    return melhorIndividuoRun;
+  }
+
+  private void avaliar(Populacao populacao){
+    double somaFitness = 0;
+
+    melhorIndividuoGeracao = (Individuo) populacao.getIndividuo(0).clone();
+
+    for(int i = 0; i < tamanhoPopulacao; i++){
+      somaFitness += populacao.getIndividuo(i).calculaFitness();
+      if(melhorIndividuoGeracao.getFitness() < populacao.getIndividuo(i).getFitness())
+        melhorIndividuoGeracao = (Individuo) populacao.getIndividuo(i).clone();
+    }
+
+    mediaGeracao = somaFitness / (double) tamanhoPopulacao;
+
+    if(geracao == 0 || melhorIndividuoRun.getFitness() < melhorIndividuoGeracao.getFitness()){
+      melhorIndividuoRun = (Individuo) melhorIndividuoGeracao.clone();
+      geracaoMelhorIndividuoRun = geracao;
+    }
+    mostra();
+  }
+
+  private void seleccao(Populacao populacaoActual, Populacao proximaPopulacao){
+    metodoSeleccao.executar(populacaoActual, proximaPopulacao);
+  }
+
+  private boolean criterioParagem(Populacao populacao, int geracaoActual){
+    if(geracaoActual == maximoGeracoes)
+      return true;
+    return false;
+  }
+
+  void recombinacao(Populacao populacao){
+    for(int i = 0; i < tamanhoPopulacao; i += 2)
+      if(aleatorio.nextDouble() < operadorRecombinacao.getProbabilidade())
+        operadorRecombinacao.executar(populacao.getIndividuo(i), populacao.getIndividuo(i + 1));
+  }
+
+  void mutacao(Populacao populacao){
+    for(int i = 0; i < populacao.getTamanho(); i++)
+      operadorMutacao.executar(populacao.getIndividuo(i));
+  }
+
+  public Populacao criarNovaPopulacao(Populacao populacaoActual, Populacao proximaPopulacao){
+    Populacao aux = proximaPopulacao;
+    this.populacaoAuxiliar = populacaoActual;
+    return aux;
+  }
+
+  private void mostra(){
+    System.out.println(populacaoActual);
+
+    System.out.println("Melhor indivíduo da geração actual\n" + melhorIndividuoGeracao);
+    System.out.println("\nMédia da geração actual: " + mediaGeracao);
+
+    System.out.println("\nMelhor indivíduo do run (geração: " + geracaoMelhorIndividuoRun + ")");
+    System.out.println(melhorIndividuoRun);
+
+    StandardInput.readString();
+  }
+
+}
