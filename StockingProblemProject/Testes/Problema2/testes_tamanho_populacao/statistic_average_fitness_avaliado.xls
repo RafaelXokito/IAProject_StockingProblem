@@ -1,0 +1,50 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:				Average:										
+400	200	Tournament(4)	PMX	0,8	EM	0,4		300,26	5.436.211.916.399.140		pop 400	ger 200	300,26										
+400	100	Tournament(4)	PMX	0,8	EM	0,4		301,76	5.512.023.222.012.040		pop 400	ger 100	301,76										
+400	200	Tournament(4)	PMX	0,8	Insert	0,4		302,42	4.976.303.849.243.930		pop 400	ger 200	302,42										
+400	100	Tournament(4)	PMX	0,8	Insert	0,4		303,38	5.560.179.853.206.180		pop 400	ger 100	303,38										
+200	200	Tournament(4)	PMX	0,8	EM	0,4		303,6	4.878.524.367.060.180		pop 200	ger 200	303,6										
+200	100	Tournament(4)	PMX	0,8	EM	0,4		305,18	4.869.045.080.916.790		pop 200	ger 100	305,18										
+400	50	Tournament(4)	PMX	0,8	EM	0,4		305,9	5.790.509.476.721.360		pop 400	ger 50	305,9										
+200	200	Tournament(4)	PMX	0,8	Insert	0,4		306,82	5.673.411.672.001.240		pop 200	ger 200	306,82										
+100	200	Tournament(4)	PMX	0,8	EM	0,4		306,88	4.541.541.588.491.730		pop 100	ger 200	306,88										
+																							
+400	50	Tournament(4)	PMX	0,8	Insert	0,4		307,24	523.664.014.421.461				Average:	Average/(Population/Generations)									
+200	100	Tournament(4)	PMX	0,8	Insert	0,4		307,78	5.654.343.463.214.800		pop 400	ger 200	300,26	0,00375325									
+200	50	Tournament(4)	PMX	0,8	EM	0,4		308,52	4.674.355.570.557.290		pop 400	ger 100	301,76	0,007544									
+100	100	Tournament(4)	PMX	0,8	EM	0,4		308,68	4.818.464.485.704.960		pop 400	ger 200	302,42	0,00378025									
+200	50	Tournament(4)	PMX	0,8	Insert	0,4		309,72	5.188.602.894.807.030		pop 400	ger 100	303,38	0,0075845									
+50	200	Tournament(4)	PMX	0,8	EM	0,4		310,46	5.177.682.879.435.540		pop 200	ger 200	303,6	0,00759									
+100	200	Tournament(4)	PMX	0,8	Insert	0,4		310,78	4.531.180.861.541.500		pop 200	ger 100	305,18	0,015259									
+100	50	Tournament(4)	PMX	0,8	EM	0,4		312,02	4.641.077.461.107.490		pop 400	ger 50	305,9	0,015295									
+400	200	Tournament(4)	PMX	0,8	DM	0,4		312,52	5.536.208.088.574.700		pop 200	ger 200	306,82	0,0076705									
+100	100	Tournament(4)	PMX	0,8	Insert	0,4		312,86	4.890.848.597.125.040		pop 100	ger 200	306,88	0,015344									
+50	100	Tournament(4)	PMX	0,8	EM	0,4		313,5	4.948.737.212.663.440														
+100	50	Tournament(4)	PMX	0,8	Insert	0,4		314,16	4.522.654.088.032.820		Seguimos então com os melhores resultados												
+200	25	Tournament(4)	PMX	0,8	Insert	0,4		314,22	4.989.148.223.895.530		para as proximas experiências												
+50	200	Tournament(4)	PMX	0,8	Insert	0,4		314,6	59.430.631.832.414.500														
+200	200	Tournament(4)	PMX	0,8	DM	0,4		314,74	5.260.456.253.976.450														
+400	25	Tournament(4)	PMX	0,8	Insert	0,4		314,96	4.293.995.808.102.280														
+50	100	Tournament(4)	PMX	0,8	Insert	0,4		315,58	5.916.384.030.808.000														
+200	25	Tournament(4)	PMX	0,8	EM	0,4		315,8	4.753.945.729.601.880														
+400	100	Tournament(4)	PMX	0,8	DM	0,4		315,86	5.114.723.843.962.640														
+200	100	Tournament(4)	PMX	0,8	DM	0,4		316,14	512.253.843.323.796														
+100	25	Tournament(4)	PMX	0,8	EM	0,4		316,22	4.446.526.734.429.910														
+100	25	Tournament(4)	PMX	0,8	Insert	0,4		316,6	4.176.122.603.564.210														
+400	25	Tournament(4)	PMX	0,8	EM	0,4		316,74	4.811.694.088.364.300														
+50	50	Tournament(4)	PMX	0,8	EM	0,4		316,94	4.319.305.499.730.250														
+100	200	Tournament(4)	PMX	0,8	DM	0,4		317,16	4.875.899.916.938.410														
+50	50	Tournament(4)	PMX	0,8	Insert	0,4		317,78	5.076.573.647.648.570														
+100	100	Tournament(4)	PMX	0,8	DM	0,4		318,84	52.587.450.974.543.300														
+400	50	Tournament(4)	PMX	0,8	DM	0,4		319,04	3.687.600.846.078.650														
+200	50	Tournament(4)	PMX	0,8	DM	0,4		319,94	39.870.289.690.444.900														
+50	200	Tournament(4)	PMX	0,8	DM	0,4		320,32	49.575.800.548.251.300														
+50	25	Tournament(4)	PMX	0,8	EM	0,4		320,5	427.668.095.606.862														
+50	25	Tournament(4)	PMX	0,8	Insert	0,4		320,8	4.156.921.938.165.300														
+100	50	Tournament(4)	PMX	0,8	DM	0,4		321,02	5.364.662.151.524.540														
+400	25	Tournament(4)	PMX	0,8	DM	0,4		321,28	3.059.673.185.162.100														
+50	100	Tournament(4)	PMX	0,8	DM	0,4		322,88	5.140.583.624.453.550														
+200	25	Tournament(4)	PMX	0,8	DM	0,4		323,38	28.276.492.003.075.600														
+100	25	Tournament(4)	PMX	0,8	DM	0,4		323,92	40.191.541.398.657.400														
+50	50	Tournament(4)	PMX	0,8	DM	0,4		325,5	4.535.416.188.179.420														
+50	25	Tournament(4)	PMX	0,8	DM	0,4		327,94	36.737.446.835.619.900														

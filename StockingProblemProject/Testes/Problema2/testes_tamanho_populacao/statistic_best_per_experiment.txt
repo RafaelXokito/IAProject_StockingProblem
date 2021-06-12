@@ -1,0 +1,1104 @@
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 311.0
+Ordem das peças: [32 11 0 23 45 44 31 20 49 40 46 15 25 34 7 24 6 29 30 12 22 19 14 17 48 47 18 26 39 35 21 8 36 9 50 27 43 42 4 33 3 51 37 28 2 16 13 5 38 1 41 10 ]
+Cortes: 285 [152][133]
+Largura de material usado: 26
+|g g s s s   o i i G G T T T n n J   r r r z   z   K                                                                                                                                                                                                               |
+|g B s   s o o o i G G T T n n n J J r   r z z z K K                                                                                                                                                                                                               |
+|g g s s s o o i i d   O O O n V V V r r r F z m m                                                                                                                                                                                                                 |
+|L t t t D D u u u   d O a a j V   V y h h F c m m m                                                                                                                                                                                                               |
+|L t   U U U     u d d R a a j j y y y h h F c   m                                                                                                                                                                                                                 |
+|L t t t U U u u u e e R R R j j y b b C h c c                                                                                                                                                                                                                     |
+|L f f x P P P Z Z e e   w w w I I b q C q l N N N                                                                                                                                                                                                                 |
+|A f f x x x P Z M M M M w v w v I k b q l l l N p                                                                                                                                                                                                                 |
+|X f X H H x S Z Y Y W W w v w v k k q   q l Q p p p                                                                                                                                                                                                               |
+|X X X H S S S Y Y Y W W W v v v k k E E E Q Q Q p p                                                                                                                                                                                                               |
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 308.0
+Ordem das peças: [6 34 50 32 48 8 28 20 42 40 44 26 24 36 19 33 31 17 51 22 49 45 9 47 4 15 46 38 27 5 41 7 37 1 30 35 23 21 43 16 13 11 39 12 25 29 0 18 14 2 3 10 ]
+Cortes: 281 [151][130]
+Largura de material usado: 27
+|G G w w w s s s T T T H H t t t u u u j   r r r O O O                                                                                                                                                                                                             |
+|G G w c w s A s T T z H z t M M M M u j j r   r O K                                                                                                                                                                                                               |
+|i i w c w s s s h h z z z t t t u u u j j r r r K K                                                                                                                                                                                                               |
+|B i c c b b a a h h x z   v C v m m   X   X L Z Z                                                                                                                                                                                                                 |
+|i i y q b q a a   h x x x v C v m m m X X X L Z                                                                                                                                                                                                                   |
+|y y y d q b   Y Y f f J x v v v F m l N N N L Z                                                                                                                                                                                                                   |
+|y I I q d q Y Y Y f f J J P P P F l l l N   L n n                                                                                                                                                                                                                 |
+|g g I d d o D D k f W W E E E P F p l V V V n n n                                                                                                                                                                                                                 |
+|g U U U o o o k k R W W W e e   p p p V Q V   n S                                                                                                                                                                                                                 |
+|g g U U o o   k k R R R   e e     p p Q Q Q S S S                                                                                                                                                                                                                 |
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 319.0
+Ordem das peças: [14 32 19 31 28 12 43 5 51 35 13 2 40 38 42 39 50 34 1 27 16 29 24 44 3 15 33 6 18 25 36 49 8 45 9 0 46 20 22 21 41 17 23 30 10 11 4 37 26 48 47 7 ]
+Cortes: 291 [155][136]
+Largura de material usado: 28
+|O O O F j N N N n n b b P P P Z Z W W   X   X L w w w                                                                                                                                                                                                             |
+|O B c F j j N n n n b d     P Z x W W W X X X L w v w v                                                                                                                                                                                                           |
+|g g c F j j m m n H H b d h h Z x x x V V V   L w v w v                                                                                                                                                                                                           |
+|g c c z   z m m m H y d d h h I I   x V   V   L   v v v                                                                                                                                                                                                           |
+|g g A z z z J m y y y s s s h k I u u u e e   a a                                                                                                                                                                                                                 |
+|T T T   z C J J y i i s   s k k t t t u e e K a a                                                                                                                                                                                                                 |
+|T T r r r C o q   q i s s s k k t u u u p K K l                                                                                                                                                                                                                   |
+|f f r   r o o o q i i Y Y G G   t t t p p p l l l                                                                                                                                                                                                                 |
+|f f r r r o o q Q q Y Y Y G G S U U U R p p   l                                                                                                                                                                                                                   |
+|f M M M M D D Q Q Q E E E S S S   U U R R R                                                                                                                                                                                                                       |
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 307.0
+Ordem das peças: [29 50 11 6 16 34 1 7 42 40 28 44 51 17 35 14 47 46 36 31 48 45 0 43 27 9 19 24 22 5 15 12 41 26 25 8 4 39 21 49 37 33 38 10 30 32 23 13 2 20 18 3 ]
+Cortes: 281 [149][132]
+Largura de material usado: 26
+|d A H H b b z   z T T T k t t t I I E E E h h g g                                                                                                                                                                                                                 |
+|B d H q b q z z z T T k k t P P P I   n n h h g                                                                                                                                                                                                                   |
+|d d y   q b j z O O O k k t t t P p n n n l h g g S                                                                                                                                                                                                               |
+|y y y q o q j j O F   f f r r r p p p n l l l S S S                                                                                                                                                                                                               |
+|y G G o o o j j v F v f f r   r   p p D D l N N N                                                                                                                                                                                                                 |
+|L G G o o s s s v F v f   r r r a a V V V m m N                                                                                                                                                                                                                   |
+|L J i i   s   s v v v w w w W W a a V x V m m m                                                                                                                                                                                                                   |
+|L J J i c s s s u u u w   w W W W Z Z x x x m U U U                                                                                                                                                                                                               |
+|L Q i i c R M M M M u w K w Y Y C Z e e X x X   U U                                                                                                                                                                                                               |
+|Q Q Q c c R R R u u u K K Y Y Y C Z e e X X X                                                                                                                                                                                                                     |
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [6 34 50 32 48 8 28 20 42 40 44 26 24 36 19 33 31 17 51 22 49 45 9 47 4 15 46 38 27 5 41 7 37 1 30 35 23 21 43 16 13 14 39 12 11 29 0 18 25 2 3 10 ]
+Cortes: 278 [150][128]
+Largura de material usado: 26
+|G G w w w s s s T T T H H t t t u u u j   r r r Z Z                                                                                                                                                                                                               |
+|G G w c w s A s T T z H z t M M M M u j j r   r Z                                                                                                                                                                                                                 |
+|i i w c w s s s h h z z z t t t u u u j j r r r Z                                                                                                                                                                                                                 |
+|B i c c b b a a h h x z   v C v m m   X   X O O O                                                                                                                                                                                                                 |
+|i i y q b q a a   h x x x v C v m m m X X X O   L                                                                                                                                                                                                                 |
+|y y y d q b   Y Y f f J x v v v F m l N N N n n L                                                                                                                                                                                                                 |
+|y I I q d q Y Y Y f f J J P P P F l l l N n n n L                                                                                                                                                                                                                 |
+|g g I d d o D D k f W W E E E P F p l V V V n K L                                                                                                                                                                                                                 |
+|g U U U o o o k k R W W W e e   p p p V Q V K K S                                                                                                                                                                                                                 |
+|g g U U o o   k k R R R   e e     p p Q Q Q S S S                                                                                                                                                                                                                 |
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 314.0
+Ordem das peças: [48 20 5 28 45 51 50 40 31 32 7 38 26 12 37 23 27 41 46 11 36 6 42 29 3 35 2 39 47 34 25 17 13 21 10 22 49 15 24 9 1 16 14 19 0 18 8 4 43 44 33 30 ]
+Cortes: 288 [153][135]
+Largura de material usado: 26
+|w w w z   z g g l P P P L q   q i i W W   I I r r r                                                                                                                                                                                                               |
+|w C w z z z g l l l p P L d q     i W W W Q I r   r                                                                                                                                                                                                               |
+|w C w A z y g g l p p p L q d q i i x   Q Q Q r r r                                                                                                                                                                                                               |
+|U U U y y y M M M M p p L d d n n R x x x T T T                                                                                                                                                                                                                   |
+|F U U y   f f X   X E E E j n n n R R R x T T s s s                                                                                                                                                                                                               |
+|F c t t t f f X X X u u u j j n N N N Y Y e e s   s                                                                                                                                                                                                               |
+|F c t D D f m m   b b   u j j Z Z N Y Y Y e e s s s                                                                                                                                                                                                               |
+|c c t t t o m m m b u u u k v Z v V V V O O O h h                                                                                                                                                                                                                 |
+|H H a a o o o m G G b K k k v Z v V J V O   S h h                                                                                                                                                                                                                 |
+|H B a a o o     G G K K k k v v v   J J S S S   h                                                                                                                                                                                                                 |
+
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 300.0
+Ordem das peças: [17 11 23 25 10 38 48 36 19 50 40 5 46 15 30 34 41 18 49 14 0 4 51 27 42 7 31 8 33 2 39 26 22 43 45 37 35 12 28 21 3 13 9 24 16 47 6 20 32 29 1 44 ]
+Cortes: 274 [146][128]
+Largura de material usado: 26
+|R D D w w w C u u u O O O f f W W M M M M U U U                                                                                                                                                                                                                   |
+|R R R w F w C     u O b b f f W W W l N N N U U                                                                                                                                                                                                                   |
+|L Z Z w F w o u u u p b q f q n n l l l N Y Y                                                                                                                                                                                                                     |
+|L Z m m F o o o   p p p b q n n n   l c Y Y Y d                                                                                                                                                                                                                   |
+|L Z m m m o o e e x p p q   q n t t t c G G g g d                                                                                                                                                                                                                 |
+|L H H m T T T e e x x x I I a a t   c c G G g d d                                                                                                                                                                                                                 |
+|X H X B T T y J i i z x z I a a t t t V V V g g                                                                                                                                                                                                                   |
+|X X X k y y y J J i z z z h h r r r j V v V v s s s                                                                                                                                                                                                               |
+|A K k k y P P P i i S z Q h h r   r j j v   v s   s                                                                                                                                                                                                               |
+|K K k k E E E P S S S Q Q Q h r r r j j v v v s s s                                                                                                                                                                                                               |
+
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 300.0
+Ordem das peças: [51 19 46 31 37 7 47 28 11 18 36 48 12 38 0 5 40 10 21 17 6 29 39 16 44 49 23 45 3 8 2 15 1 43 14 34 22 35 50 30 20 42 27 13 24 32 4 41 9 26 25 33 ]
+Cortes: 274 [147][127]
+Largura de material usado: 26
+|z B z f f c L w w w G G s s s r r r j U U U g g Z Z                                                                                                                                                                                                               |
+|z z z f f c L w   w G G s   s r   r j j U U g   Z                                                                                                                                                                                                                 |
+|A z   f c c L w   w Q d s s s r r r j j b b g g Z                                                                                                                                                                                                                 |
+|T T T l I I L m m Q Q Q d x P P P W W q b q a a h h                                                                                                                                                                                                               |
+|T T l l l I S m m m o d d x x x P W W W q b a a h h                                                                                                                                                                                                               |
+|u u u l S S S k m o o o n n J x O O O q y q p     h                                                                                                                                                                                                               |
+|D D u v C v k k F o o n n n J J O   y y y p p p                                                                                                                                                                                                                   |
+|u u u v C v k k F V V V n t t t i i y N N N p p                                                                                                                                                                                                                   |
+|H H   v v v K R F V X V X t E E E i e e N Y Y                                                                                                                                                                                                                     |
+|H M M M M K K R R R X X X t t t i i e e Y Y Y                                                                                                                                                                                                                     |
+
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 310.0
+Ordem das peças: [14 32 19 31 28 12 43 5 51 35 13 2 40 38 42 39 50 34 1 27 16 29 24 44 3 15 33 6 18 25 36 49 8 45 9 0 46 20 22 21 41 17 11 4 37 26 30 10 23 48 47 7 ]
+Cortes: 283 [151][132]
+Largura de material usado: 27
+|O O O F j N N N n n b b P P P Z Z W W   a a L w w w                                                                                                                                                                                                               |
+|O B c F j j N n n n b d     P Z x W W W a a L w v w v                                                                                                                                                                                                             |
+|g g c F j j m m n H H b d h h Z x x x V V V L w v w v                                                                                                                                                                                                             |
+|g c c z   z m m m H y d d h h I I   x V   V L K v v v                                                                                                                                                                                                             |
+|g g A z z z J m y y y s s s h k I u u u   l K K                                                                                                                                                                                                                   |
+|T T T   z C J J y i i s   s k k t t t u l l l                                                                                                                                                                                                                     |
+|T T r r r C o q   q i s s s k k t u u u p l e e                                                                                                                                                                                                                   |
+|f f r   r o o o q i i Y Y G G   t t t p p p e e                                                                                                                                                                                                                   |
+|f f r r r o o q Q q Y Y Y G G S U U U R p p X   X                                                                                                                                                                                                                 |
+|f M M M M D D Q Q Q E E E S S S   U U R R R X X X                                                                                                                                                                                                                 |
+
+
+Population size:50
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 300.0
+Ordem das peças: [17 11 23 25 10 38 48 36 19 50 40 5 46 15 30 34 41 18 49 14 0 4 51 27 42 7 31 8 33 2 39 26 22 43 45 37 35 12 28 21 3 13 9 24 16 47 6 20 32 29 1 44 ]
+Cortes: 274 [146][128]
+Largura de material usado: 26
+|R D D w w w C u u u O O O f f W W M M M M U U U                                                                                                                                                                                                                   |
+|R R R w F w C     u O b b f f W W W l N N N U U                                                                                                                                                                                                                   |
+|L Z Z w F w o u u u p b q f q n n l l l N Y Y                                                                                                                                                                                                                     |
+|L Z m m F o o o   p p p b q n n n   l c Y Y Y d                                                                                                                                                                                                                   |
+|L Z m m m o o e e x p p q   q n t t t c G G g g d                                                                                                                                                                                                                 |
+|L H H m T T T e e x x x I I a a t   c c G G g d d                                                                                                                                                                                                                 |
+|X H X B T T y J i i z x z I a a t t t V V V g g                                                                                                                                                                                                                   |
+|X X X k y y y J J i z z z h h r r r j V v V v s s s                                                                                                                                                                                                               |
+|A K k k y P P P i i S z Q h h r   r j j v   v s   s                                                                                                                                                                                                               |
+|K K k k E E E P S S S Q Q Q h r r r j j v v v s s s                                                                                                                                                                                                               |
+
+
+Population size:50
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 299.0
+Ordem das peças: [51 19 46 31 37 7 47 28 11 18 36 48 12 38 10 5 40 0 21 17 26 29 39 16 44 49 23 45 3 8 2 15 1 43 14 34 22 35 50 30 20 42 4 13 24 32 27 25 9 6 41 33 ]
+Cortes: 273 [146][127]
+Largura de material usado: 26
+|z B z f f c L w w w a a s s s r r r j U U U g g p                                                                                                                                                                                                                 |
+|z z z f f c L w   w a a s   s r   r j j U U g p p p                                                                                                                                                                                                               |
+|A z   f c c L w   w Q d s s s r r r j j b b g g p p                                                                                                                                                                                                               |
+|T T T l I I L m m Q Q Q d x P P P W W q b q Z Z                                                                                                                                                                                                                   |
+|T T l l l I S m m m o d d x x x P W W W q b Z h h                                                                                                                                                                                                                 |
+|u u u l S S S k m o o o n n J x O O O q y q Z h h                                                                                                                                                                                                                 |
+|D D u v C v k k F o o n n n J J O   y y y   G G h                                                                                                                                                                                                                 |
+|u u u v C v k k F V V V n t t t i i y N N N G G                                                                                                                                                                                                                   |
+|H H   v v v K R F V X V X t E E E i e e N Y Y                                                                                                                                                                                                                     |
+|H M M M M K K R R R X X X t t t i i e e Y Y Y                                                                                                                                                                                                                     |
+
+
+Population size:50
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 310.0
+Ordem das peças: [14 32 19 31 28 12 43 5 51 35 13 2 40 38 42 39 50 34 1 27 16 29 24 44 3 15 33 6 18 25 36 49 8 45 9 0 46 20 22 21 41 17 11 4 37 26 30 10 23 48 47 7 ]
+Cortes: 283 [151][132]
+Largura de material usado: 27
+|O O O F j N N N n n b b P P P Z Z W W   a a L w w w                                                                                                                                                                                                               |
+|O B c F j j N n n n b d     P Z x W W W a a L w v w v                                                                                                                                                                                                             |
+|g g c F j j m m n H H b d h h Z x x x V V V L w v w v                                                                                                                                                                                                             |
+|g c c z   z m m m H y d d h h I I   x V   V L K v v v                                                                                                                                                                                                             |
+|g g A z z z J m y y y s s s h k I u u u   l K K                                                                                                                                                                                                                   |
+|T T T   z C J J y i i s   s k k t t t u l l l                                                                                                                                                                                                                     |
+|T T r r r C o q   q i s s s k k t u u u p l e e                                                                                                                                                                                                                   |
+|f f r   r o o o q i i Y Y G G   t t t p p p e e                                                                                                                                                                                                                   |
+|f f r r r o o q Q q Y Y Y G G S U U U R p p X   X                                                                                                                                                                                                                 |
+|f M M M M D D Q Q Q E E E S S S   U U R R R X X X                                                                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 306.0
+Ordem das peças: [43 31 30 23 45 0 18 13 46 1 26 28 32 24 40 27 16 15 41 29 47 9 34 37 17 7 10 48 3 42 11 21 6 33 8 44 14 36 20 49 25 22 51 5 35 50 39 2 12 19 4 38 ]
+Cortes: 280 [149][131]
+Largura de material usado: 26
+|r r r N N N Y Y     J i i H H V V V O O O E E E n n                                                                                                                                                                                                               |
+|r A r   N Y Y Y o d J J i H q V q V O k Z Z   n n n                                                                                                                                                                                                               |
+|r r r u u u   o o o d i i K   q I I k k Z z   z n                                                                                                                                                                                                                 |
+|f f t t t u c o o d d l K K q L q I k k Z z z z                                                                                                                                                                                                                   |
+|f f t u u u c b b p l l l G G L h h U U U j z m m                                                                                                                                                                                                                 |
+|f B t t t c c b p p p l R G G L h h x U U j j m m m                                                                                                                                                                                                               |
+|e e D D S g g Q b p p F R R R L   h x x x j j y m                                                                                                                                                                                                                 |
+|e e S S S g Q Q Q   v F v w w w s s s   x y y y                                                                                                                                                                                                                   |
+|X   X a a g g P P P v F v w C w s   s W W y T T T                                                                                                                                                                                                                 |
+|X X X a a M M M M P v v v w C w s s s W W W T T                                                                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 303.0
+Ordem das peças: [8 48 19 45 6 51 27 32 42 35 1 38 41 34 15 17 49 24 2 44 22 26 23 33 13 36 43 25 0 10 30 37 47 12 46 20 9 28 11 40 4 14 16 5 31 50 29 21 3 7 18 39 ]
+Cortes: 277 [149][128]
+Largura de material usado: 26
+|I I G G F m m P P P W W N N N Z Z u u u   f f V V V                                                                                                                                                                                                               |
+|B I G G F m m m x P W W W N k Z E E E u c f f V y V                                                                                                                                                                                                               |
+|w w w z F z m p x x x a a k k Z l u u u c f y y y                                                                                                                                                                                                                 |
+|w C w z z z p p p   x a a k k l l l   c c   y H H                                                                                                                                                                                                                 |
+|w C w   z g g p p Y Y X   X e e l D D L O O O H S                                                                                                                                                                                                                 |
+|T T T b b g i i Y Y Y X X X e e v   v L O Q S S S                                                                                                                                                                                                                 |
+|T T q b q g g i s s s h h r r r v   v L Q Q Q n n                                                                                                                                                                                                                 |
+|t t t q b j i i s   s h h r   r v v v L o d n n n                                                                                                                                                                                                                 |
+|t A q J q j j R s s s K h r r r U U U o o o d n                                                                                                                                                                                                                   |
+|t t t J J j j R R R K K M M M M   U U o o d d                                                                                                                                                                                                                     |
+
+
+Population size:100
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 312.0
+Ordem das peças: [11 34 36 43 49 22 48 8 15 38 30 35 19 32 24 9 50 29 26 16 31 13 3 51 42 18 41 39 40 25 12 27 14 28 21 47 46 0 37 6 44 5 20 23 17 45 2 1 33 10 4 7 ]
+Cortes: 286 [154][132]
+Largura de material usado: 26
+|L r r r I I j D D   y z   z   n n c v   v s s s h h                                                                                                                                                                                                               |
+|L r   r J I j j y y y z z z n n n c v   v s   s h h                                                                                                                                                                                                               |
+|L r r r J J j j y a a   z b b n c c v v v s s s K h                                                                                                                                                                                                               |
+|L   x P P P T T T a a   q b q Z Z u u u G G R K K                                                                                                                                                                                                                 |
+|i i x x x P T T Y Y N N N q b Z O O O u G G R R R                                                                                                                                                                                                                 |
+|A i W W x m m Y Y Y Q N q p q Z O u u u l U U U H H                                                                                                                                                                                                               |
+|i i W W W m m m d Q Q Q p p p M M M M l l l U U H                                                                                                                                                                                                                 |
+|B k w w w   m g g d f f   p p o   V V V l F t t t                                                                                                                                                                                                                 |
+|k k w C w e e g d d f f   S o o o V X V X F t E E E                                                                                                                                                                                                               |
+|k k w C w e e g g   f S S S o o     X X X F t t t                                                                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [21 45 22 13 27 51 23 37 31 20 0 33 43 34 39 48 36 19 11 16 28 17 44 3 46 40 42 9 15 10 6 7 29 25 1 18 24 38 50 41 47 14 5 49 4 26 32 35 2 12 30 8 ]
+Cortes: 278 [148][130]
+Largura de material usado: 26
+|V V V b b h h i i w w w s s s J E E E S v   v g g                                                                                                                                                                                                                 |
+|V A V b B h h   i w   w s   s J J S S S v   v g I I                                                                                                                                                                                                               |
+|t t t z b z h i i w k w s s s P P P m m v v v g g I                                                                                                                                                                                                               |
+|t D D z z z r r r k k R u u u G G P m m m O O O j                                                                                                                                                                                                                 |
+|t t t l z C r   r k k R R R u G G Z Z m p O a a j j                                                                                                                                                                                                               |
+|W W l l l C r r r T T T u u u H H Z   p p p a a j j                                                                                                                                                                                                               |
+|W W W l U U U     T T L   o q H q Z Y Y p p e e                                                                                                                                                                                                                   |
+|N N N f f U U n n c F L o o o q d Y Y Y y x e e                                                                                                                                                                                                                   |
+|X N X f f Q n n n c F L o o q K q d y y y x x x                                                                                                                                                                                                                   |
+|X X X f Q Q Q n c c F L     K K d d y M M M M x                                                                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 303.0
+Ordem das peças: [8 48 19 45 6 51 27 32 42 35 1 38 41 34 15 17 49 24 2 44 22 26 23 33 13 36 43 25 0 10 30 37 47 12 46 20 9 28 11 40 4 14 16 5 31 50 29 21 3 7 18 39 ]
+Cortes: 277 [149][128]
+Largura de material usado: 26
+|I I G G F m m P P P W W N N N Z Z u u u   f f V V V                                                                                                                                                                                                               |
+|B I G G F m m m x P W W W N k Z E E E u c f f V y V                                                                                                                                                                                                               |
+|w w w z F z m p x x x a a k k Z l u u u c f y y y                                                                                                                                                                                                                 |
+|w C w z z z p p p   x a a k k l l l   c c   y H H                                                                                                                                                                                                                 |
+|w C w   z g g p p Y Y X   X e e l D D L O O O H S                                                                                                                                                                                                                 |
+|T T T b b g i i Y Y Y X X X e e v   v L O Q S S S                                                                                                                                                                                                                 |
+|T T q b q g g i s s s h h r r r v   v L Q Q Q n n                                                                                                                                                                                                                 |
+|t t t q b j i i s   s h h r   r v v v L o d n n n                                                                                                                                                                                                                 |
+|t A q J q j j R s s s K h r r r U U U o o o d n                                                                                                                                                                                                                   |
+|t t t J J j j R R R K K M M M M   U U o o d d                                                                                                                                                                                                                     |
+
+
+Population size:100
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 306.0
+Ordem das peças: [7 36 30 18 43 12 11 33 23 32 47 22 25 27 24 38 31 49 42 39 41 48 5 26 15 14 46 10 21 28 13 16 45 0 37 8 35 50 17 34 4 40 29 44 3 6 20 9 1 2 51 19 ]
+Cortes: 280 [149][131]
+Largura de material usado: 26
+|H H M M M M Z Z q   q n n P P P c   Q E E E y z   z                                                                                                                                                                                                               |
+|H k L h h C Z b b q n n n I I P c Q Q Q y y y z z z                                                                                                                                                                                                               |
+|k k L h h C Z b q J q n a a I c c t t t y s s s z                                                                                                                                                                                                                 |
+|k k L X h X f f b J J p a a u u u t   i i s   s                                                                                                                                                                                                                   |
+|e e L X X X f f m m p p p O O O u t t t i s s s                                                                                                                                                                                                                   |
+|e e S g g v f v m m m p p O u u u   l i i o U U U                                                                                                                                                                                                                 |
+|S S S g B v   v x m   w w w V V V l l l o o o U U                                                                                                                                                                                                                 |
+|r r r g g v v v x x x w F w V   V d l j o o   T T T                                                                                                                                                                                                               |
+|r A r W W D D Y Y R x w F w K N N N d j j G G T T                                                                                                                                                                                                                 |
+|r r r W W W Y Y Y R R R F K K   N d d j j G G                                                                                                                                                                                                                     |
+
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [21 45 22 13 27 51 23 37 31 20 0 33 43 34 39 48 36 19 11 16 28 17 44 3 46 40 42 9 15 10 6 7 29 25 1 18 24 38 50 41 47 14 5 49 4 26 32 35 2 12 30 8 ]
+Cortes: 278 [148][130]
+Largura de material usado: 26
+|V V V b b h h i i w w w s s s J E E E S v   v g g                                                                                                                                                                                                                 |
+|V A V b B h h   i w   w s   s J J S S S v   v g I I                                                                                                                                                                                                               |
+|t t t z b z h i i w k w s s s P P P m m v v v g g I                                                                                                                                                                                                               |
+|t D D z z z r r r k k R u u u G G P m m m O O O j                                                                                                                                                                                                                 |
+|t t t l z C r   r k k R R R u G G Z Z m p O a a j j                                                                                                                                                                                                               |
+|W W l l l C r r r T T T u u u H H Z   p p p a a j j                                                                                                                                                                                                               |
+|W W W l U U U     T T L   o q H q Z Y Y p p e e                                                                                                                                                                                                                   |
+|N N N f f U U n n c F L o o o q d Y Y Y y x e e                                                                                                                                                                                                                   |
+|X N X f f Q n n n c F L o o q K q d y y y x x x                                                                                                                                                                                                                   |
+|X X X f Q Q Q n c c F L     K K d d y M M M M x                                                                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 297.0
+Ordem das peças: [40 0 48 41 18 14 51 47 21 9 10 50 34 30 19 6 46 42 38 29 39 49 35 28 2 20 31 4 36 27 11 25 5 24 45 33 43 22 16 15 17 1 26 13 32 8 7 23 12 3 44 37 ]
+Cortes: 272 [146][126]
+Largura de material usado: 25
+|A o   O O O y G G C m m U U U b b Y Y a a g g l                                                                                                                                                                                                                   |
+|o o o O y y y G G C m m m U U b Y Y Y a a g l l l                                                                                                                                                                                                                 |
+|o o   z y z i i u u u m n n c F b t t t   g g l                                                                                                                                                                                                                   |
+|w w w z z z   i D D u n n n c F L t P P P H H                                                                                                                                                                                                                     |
+|w B w v z v i i u u u x n c c F L t t t P H X   X                                                                                                                                                                                                                 |
+|w p w v   v e e I I d x x x f f L h h r r r X X X                                                                                                                                                                                                                 |
+|p p p v v v e e q I q d j x f f L h h r   r s s s                                                                                                                                                                                                                 |
+|J p p V V V T T T q d d j j f k Z Z h r r r s   s                                                                                                                                                                                                                 |
+|J J S V K V T T q Q q R j j k k Z W W N N N s s s                                                                                                                                                                                                                 |
+|S S S K K E E E Q Q Q R R R k k Z W W W N M M M M                                                                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 306.0
+Ordem das peças: [7 36 30 18 43 12 11 33 23 32 47 22 25 27 24 38 31 49 42 39 41 48 5 26 15 14 46 10 21 28 13 16 45 0 37 8 35 50 17 34 4 40 29 44 3 6 20 9 1 2 51 19 ]
+Cortes: 280 [149][131]
+Largura de material usado: 26
+|H H M M M M Z Z q   q n n P P P c   Q E E E y z   z                                                                                                                                                                                                               |
+|H k L h h C Z b b q n n n I I P c Q Q Q y y y z z z                                                                                                                                                                                                               |
+|k k L h h C Z b q J q n a a I c c t t t y s s s z                                                                                                                                                                                                                 |
+|k k L X h X f f b J J p a a u u u t   i i s   s                                                                                                                                                                                                                   |
+|e e L X X X f f m m p p p O O O u t t t i s s s                                                                                                                                                                                                                   |
+|e e S g g v f v m m m p p O u u u   l i i o U U U                                                                                                                                                                                                                 |
+|S S S g B v   v x m   w w w V V V l l l o o o U U                                                                                                                                                                                                                 |
+|r r r g g v v v x x x w F w V   V d l j o o   T T T                                                                                                                                                                                                               |
+|r A r W W D D Y Y R x w F w K N N N d j j G G T T                                                                                                                                                                                                                 |
+|r r r W W W Y Y Y R R R F K K   N d d j j G G                                                                                                                                                                                                                     |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 298.0
+Ordem das peças: [47 33 30 32 42 31 39 48 26 38 50 16 0 25 43 40 45 51 11 46 37 18 2 3 15 5 19 9 23 20 29 21 6 41 27 1 34 35 10 44 14 24 36 12 17 13 49 4 8 22 28 7 ]
+Cortes: 272 [144][128]
+Largura de material usado: 26
+|v C v f f w w w r r r z   z U U U I I s s s R                                                                                                                                                                                                                     |
+|v C v f f w L w r   r z z z   U U p I s   s R R R c                                                                                                                                                                                                               |
+|v v v f   w L w r r r l z T T T p p p s s s N N N c                                                                                                                                                                                                               |
+|h h g g n n L Z Z o l l l T T G G p p O O O x N c c                                                                                                                                                                                                               |
+|h h g n n n L Z o o o l S J d G G i i O Y Y x x x                                                                                                                                                                                                                 |
+|A h g g n m m Z o o S S S J J d b b i Y Y Y W W x                                                                                                                                                                                                                 |
+|e e q   q m m m t t t P P P d d b i i H H k W W W                                                                                                                                                                                                                 |
+|e e B q D D m y t u u u F P V V V b j H k k                                                                                                                                                                                                                       |
+|a a q Q q y y y t t t u F X V X V K j j k k                                                                                                                                                                                                                       |
+|a a Q Q Q y E E E u u u F X X X K K j j M M M M                                                                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 297.0
+Ordem das peças: [40 0 48 41 18 14 51 47 21 9 10 50 34 30 19 6 46 42 38 29 39 49 35 28 2 20 31 4 36 27 11 25 5 24 45 33 43 22 16 15 17 1 26 13 32 8 7 23 12 3 44 37 ]
+Cortes: 272 [146][126]
+Largura de material usado: 25
+|A o   O O O y G G C m m U U U b b Y Y a a g g l                                                                                                                                                                                                                   |
+|o o o O y y y G G C m m m U U b Y Y Y a a g l l l                                                                                                                                                                                                                 |
+|o o   z y z i i u u u m n n c F b t t t   g g l                                                                                                                                                                                                                   |
+|w w w z z z   i D D u n n n c F L t P P P H H                                                                                                                                                                                                                     |
+|w B w v z v i i u u u x n c c F L t t t P H X   X                                                                                                                                                                                                                 |
+|w p w v   v e e I I d x x x f f L h h r r r X X X                                                                                                                                                                                                                 |
+|p p p v v v e e q I q d j x f f L h h r   r s s s                                                                                                                                                                                                                 |
+|J p p V V V T T T q d d j j f k Z Z h r r r s   s                                                                                                                                                                                                                 |
+|J J S V K V T T q Q q R j j k k Z W W N N N s s s                                                                                                                                                                                                                 |
+|S S S K K E E E Q Q Q R R R k k Z W W W N M M M M                                                                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 306.0
+Ordem das peças: [7 36 30 18 43 12 11 33 23 32 47 22 25 27 24 38 31 49 42 39 41 48 5 26 15 14 46 10 21 28 13 16 45 0 37 8 35 50 17 34 4 40 29 44 3 6 20 9 1 2 51 19 ]
+Cortes: 280 [149][131]
+Largura de material usado: 26
+|H H M M M M Z Z q   q n n P P P c   Q E E E y z   z                                                                                                                                                                                                               |
+|H k L h h C Z b b q n n n I I P c Q Q Q y y y z z z                                                                                                                                                                                                               |
+|k k L h h C Z b q J q n a a I c c t t t y s s s z                                                                                                                                                                                                                 |
+|k k L X h X f f b J J p a a u u u t   i i s   s                                                                                                                                                                                                                   |
+|e e L X X X f f m m p p p O O O u t t t i s s s                                                                                                                                                                                                                   |
+|e e S g g v f v m m m p p O u u u   l i i o U U U                                                                                                                                                                                                                 |
+|S S S g B v   v x m   w w w V V V l l l o o o U U                                                                                                                                                                                                                 |
+|r r r g g v v v x x x w F w V   V d l j o o   T T T                                                                                                                                                                                                               |
+|r A r W W D D Y Y R x w F w K N N N d j j G G T T                                                                                                                                                                                                                 |
+|r r r W W W Y Y Y R R R F K K   N d d j j G G                                                                                                                                                                                                                     |
+
+
+Population size:200
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [48 1 47 51 16 45 14 49 42 46 7 9 28 17 19 32 5 43 39 50 24 41 36 2 11 22 13 44 21 18 33 20 31 30 6 38 15 0 27 23 10 29 8 4 37 25 40 12 35 26 3 34 ]
+Cortes: 278 [150][128]
+Largura de material usado: 26
+|w w w O O O H H T T T Y Y N N N   U U U P P P a a                                                                                                                                                                                                                 |
+|w F w O J q H q T T Y Y Y p N s s s U U b b P a a                                                                                                                                                                                                                 |
+|w F w Q J J q I I r r r p p p s   s e e b   Z Z                                                                                                                                                                                                                   |
+|B F Q Q Q q R q I r   r   p p s s s e e d b Z j                                                                                                                                                                                                                   |
+|v C v t t t R R R r r r   k L V V V G G   d Z j j                                                                                                                                                                                                                 |
+|v C v t u u u   g g n n k k L V   V G G d d l j j                                                                                                                                                                                                                 |
+|v v v t t t u c g n n n k k L h h f f m m l l l                                                                                                                                                                                                                   |
+|z   z x u u u c g g n y W W L h h f f m m m l o i i                                                                                                                                                                                                               |
+|z z z x x x c c S y y y W W W K h f   X m X o o o i                                                                                                                                                                                                               |
+|A z E E E x S S S y M M M M K K D D   X X X o o i i                                                                                                                                                                                                               |
+
+
+Population size:200
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 306.0
+Ordem das peças: [19 21 42 32 37 8 28 2 48 24 3 23 33 44 0 17 51 30 45 43 34 50 20 11 5 7 6 14 47 27 39 38 35 49 40 15 46 36 22 31 41 26 12 10 13 16 9 25 1 18 4 29 ]
+Cortes: 280 [148][132]
+Largura de material usado: 26
+|T T T   w w w s s s r r r G G b b n n u u u a a                                                                                                                                                                                                                   |
+|T T I I w F w s   s r   r G G b n n n     u a a d                                                                                                                                                                                                                 |
+|V V V I w F w s s s r r r P P P b n x u u u N N N d                                                                                                                                                                                                               |
+|V C V c X F X z   z H H U U U P m m x x x W W N d d                                                                                                                                                                                                               |
+|q C q c X X X z z z H i i U U   m m m o x W W W Q                                                                                                                                                                                                                 |
+|A q c c Y Y R   z t t t i L O O O m o o o f f Q Q Q                                                                                                                                                                                                               |
+|q B q Y Y Y R R R t   i i L O Z Z j o o k f f J                                                                                                                                                                                                                   |
+|g g l D D h h e e t t t y L v Z v j j k k f p J J                                                                                                                                                                                                                 |
+|g l l l K h h e e S y y y L v Z v j j k k p p p                                                                                                                                                                                                                   |
+|g g l K K   h S S S y E E E v v v M M M M   p p                                                                                                                                                                                                                   |
+
+
+Population size:200
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 314.0
+Ordem das peças: [45 6 21 47 42 23 31 50 29 48 26 14 12 40 20 32 13 39 18 34 17 36 46 1 15 49 51 44 22 19 43 37 33 38 27 5 10 35 28 11 16 0 3 8 4 2 25 24 30 9 7 41 ]
+Cortes: 287 [153][134]
+Largura de material usado: 27
+|t t t C d   w w w g g R u u u s s s h h m m E E E                                                                                                                                                                                                                 |
+|t B q C q d w   w g   R R R u s   s h h m m m Z Z p                                                                                                                                                                                                               |
+|t t t q d d w   w g g S u u u s s s l h   m c Z p p p                                                                                                                                                                                                             |
+|G G q X q X O O O S S S P P P W W l l l b b c Z   p p                                                                                                                                                                                                             |
+|G G A X X X O U U U J i i x P W W W l   b c c e e                                                                                                                                                                                                                 |
+|V V V f f a a   U U J J i x x x   r r r j b L e e                                                                                                                                                                                                                 |
+|V F V f f a a o N N N i i k z x z r   r j j L H H                                                                                                                                                                                                                 |
+|v F v f   y o o o N n n k k z z z r r r j j L H                                                                                                                                                                                                                   |
+|v F v y y y o o   n n n k k K z T T T Q I I L Y Y                                                                                                                                                                                                                 |
+|v v v y M M M M D D n     K K   T T Q Q Q I Y Y Y                                                                                                                                                                                                                 |
+
+
+Population size:200
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 300.0
+Ordem das peças: [13 49 24 37 11 39 44 9 7 18 28 12 35 31 45 22 4 1 46 50 10 43 48 3 33 23 47 25 21 0 36 51 41 27 34 26 6 2 38 8 17 19 5 30 42 20 32 14 40 16 15 29 ]
+Cortes: 274 [146][128]
+Largura de material usado: 26
+|N N N L s s s f f a a w w w Z Z k G G m m q   q                                                                                                                                                                                                                   |
+|x N A L s   s f f a a w   w Z k k G G m m m q                                                                                                                                                                                                                     |
+|x x x L s s s f u u u w   w Z k k p I I m q   q o                                                                                                                                                                                                                 |
+|H H x L E E E t t t u h h V V V p p p I P P P o o o                                                                                                                                                                                                               |
+|H Y Y M M M M t u u u h h V z V z p p T T T P o o                                                                                                                                                                                                                 |
+|Y Y Y n n C j t t t y X h X z z z i i T T g g Q                                                                                                                                                                                                                   |
+|B l n n n C j j y y y X X X F z b b i e e g Q Q Q                                                                                                                                                                                                                 |
+|l l l n S c j j y K r r r v F v b i i e e g g d                                                                                                                                                                                                                   |
+|J l S S S c W W K K r   r v F v R b U U U O O O d                                                                                                                                                                                                                 |
+|J J D D c c W W W   r r r v v v R R R U U O   d d                                                                                                                                                                                                                 |
+
+
+Population size:200
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 299.0
+Ordem das peças: [45 43 44 19 31 38 28 41 40 51 29 36 20 26 12 6 15 30 46 9 1 33 34 14 5 16 48 11 47 35 39 13 50 7 17 21 42 24 49 18 32 25 2 3 27 23 22 4 37 8 10 0 ]
+Cortes: 274 [147][127]
+Largura de material usado: 25
+|t t t T T T H H a a C h h O O O n n V V V x   I I                                                                                                                                                                                                                 |
+|t D D T T z H z a a C h h O Q n n n V y V x x x I                                                                                                                                                                                                                 |
+|t t t f f z z z k P P P h Q Q Q n y y y Y Y X x X                                                                                                                                                                                                                 |
+|r r r f f p z k k e e P i i w w w y R Y Y Y X X X                                                                                                                                                                                                                 |
+|r A r f p p p k k e e     i w v w v R R R g g l                                                                                                                                                                                                                   |
+|r r r m m p p M M M M   i i w v w v   b b g l l l                                                                                                                                                                                                                 |
+|s s s m m m U U U J u u u F L v v v q b q g g l K                                                                                                                                                                                                                 |
+|s   s c m o d U U J J   u F L j N N N q b Z Z K K                                                                                                                                                                                                                 |
+|s s s c o o o d G G u u u F L j j N q S q Z W W                                                                                                                                                                                                                   |
+|B   c c o o d d G G E E E   L j j S S S   Z W W W                                                                                                                                                                                                                 |
+
+
+Population size:200
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 311.0
+Ordem das peças: [36 35 5 6 9 10 27 26 42 40 44 34 1 51 48 47 28 31 32 25 20 23 45 37 49 50 39 24 13 22 16 11 43 15 29 21 14 0 18 41 17 7 46 12 30 19 2 38 33 3 4 8 ]
+Cortes: 284 [152][132]
+Largura de material usado: 27
+|B k b b C i i w w w f f t t t n n r r r R u u u E E E                                                                                                                                                                                                             |
+|k k b q C q i w L w f f t   n n n r   r R R R u I I                                                                                                                                                                                                               |
+|k k K b q i i w L w f   t t t n   r r r p u u u   I                                                                                                                                                                                                               |
+|j K K q z q z v L v g g l N N N P P P p p p T T T                                                                                                                                                                                                                 |
+|j j a a z z z v L v g l l l N W W   P   p p T T                                                                                                                                                                                                                   |
+|j j a a o z x v v v g g l   y W W W V V V e e h h                                                                                                                                                                                                                 |
+|F G G o o o x x x c Z Z y y y Q d   V   V e e h h                                                                                                                                                                                                                 |
+|F G G o o s s s x c Z X y X Q Q Q d O O O   m m h                                                                                                                                                                                                                 |
+|F J U U U s   s c c Z X X X Y Y d d O S H H m m m                                                                                                                                                                                                                 |
+|A J J U U s s s M M M M   Y Y Y   S S S H D D m                                                                                                                                                                                                                   |
+
+
+Population size:200
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 297.0
+Ordem das peças: [47 48 51 41 25 30 9 27 14 46 24 50 21 28 2 34 5 31 35 23 26 38 40 1 43 6 36 8 17 16 10 15 32 22 4 39 3 49 37 29 44 11 20 19 45 33 18 12 7 42 0 13 ]
+Cortes: 271 [143][128]
+Largura de material usado: 26
+|v C v Z Z u u u i i a a r r r g g n n s s s h h                                                                                                                                                                                                                   |
+|v C v Z O O O u   i a a r   r g n n n s   s h h                                                                                                                                                                                                                   |
+|v v v Z O u u u i i m m r r r g g n l s s s q h q                                                                                                                                                                                                                 |
+|w w w e e V V V c j m m m k P P P l l l T T T q                                                                                                                                                                                                                   |
+|w F w e e V A V c j j m k k D D P d l L T T q   q                                                                                                                                                                                                                 |
+|w F w b b Y Y c c j j o k k Q E E E d L t t t                                                                                                                                                                                                                     |
+|z F z b Y Y Y y f f o o o Q Q Q x d d L t M M M M                                                                                                                                                                                                                 |
+|z z z p b y y y f f o o I I W W x x x L t t t N N N                                                                                                                                                                                                               |
+|J z p p p y K X f X G G R I W W W S x U U U H H N                                                                                                                                                                                                                 |
+|J J B p p K K X X X G G R R R S S S     U U H                                                                                                                                                                                                                     |
+
+
+Population size:200
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 296.0
+Ordem das peças: [44 43 45 19 31 38 28 41 40 51 29 36 20 26 12 22 15 30 46 9 33 3 34 14 5 16 48 11 47 35 39 13 50 7 17 21 42 24 49 18 32 25 1 2 27 23 6 4 37 8 10 0 ]
+Cortes: 271 [145][126]
+Largura de material usado: 25
+|s s s T T T H H a a C h h O O O n n V V V x   I I                                                                                                                                                                                                                 |
+|s B s T T z H z a a C h h O Q n n n V y V x x x I                                                                                                                                                                                                                 |
+|s s s f f z z z k P P P h Q Q Q n y y y Y Y X x X                                                                                                                                                                                                                 |
+|r r r f f p z k k e e P i i w w w y R Y Y Y X X X                                                                                                                                                                                                                 |
+|r A r f p p p k k e e     i w v w v R R R g g l                                                                                                                                                                                                                   |
+|r r r m m p p M M M M   i i w v w v   b b g l l l                                                                                                                                                                                                                 |
+|t t t m m m U U U J u u u F L v v v q b q g g l K                                                                                                                                                                                                                 |
+|t     c m o d U U J J   u F L j N N N q b Z Z K K                                                                                                                                                                                                                 |
+|t t t c o o o d W W u u u F L j j N q S q Z G G                                                                                                                                                                                                                   |
+|D D c c o o d d W W W E E E L j j S S S   Z G G                                                                                                                                                                                                                   |
+
+
+Population size:200
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 301.0
+Ordem das peças: [36 35 5 6 9 10 27 26 42 40 44 34 1 51 48 47 28 31 32 25 20 23 45 37 49 50 39 24 13 22 16 11 0 14 29 21 2 38 18 41 17 7 46 12 30 19 15 43 3 4 33 8 ]
+Cortes: 276 [148][128]
+Largura de material usado: 25
+|B k b b C i i w w w f f t t t n n V V V u u u h h                                                                                                                                                                                                                 |
+|k k b q C q i w L w f f t   n n n V   V D D u h h                                                                                                                                                                                                                 |
+|k k K b q i i w L w f   t t t n O O O R u u u   h                                                                                                                                                                                                                 |
+|j K K q z q z v L v g g l N N N O m m R R R r r r                                                                                                                                                                                                                 |
+|j j a a z z z v L v g l l l N W W m m m e e r   r                                                                                                                                                                                                                 |
+|j j a a o z x v v v g g l   y W W W m p e e r r r                                                                                                                                                                                                                 |
+|F G G o o o x x x c Z Z y y y Q d   p p p T T T                                                                                                                                                                                                                   |
+|F G G o o s s s x c Z X y X Q Q Q d   p p T T I I                                                                                                                                                                                                                 |
+|F J U U U s   s c c Z X X X Y Y d d S H H P P P I                                                                                                                                                                                                                 |
+|A J J U U s s s M M M M   Y Y Y S S S H E E E P                                                                                                                                                                                                                   |
+
+
+Population size:200
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 297.0
+Ordem das peças: [47 48 51 41 25 30 9 27 14 46 24 50 21 28 2 34 5 31 35 23 26 38 40 1 43 6 36 8 17 16 10 15 32 22 4 39 3 49 37 29 44 11 20 19 45 33 18 12 7 42 0 13 ]
+Cortes: 271 [143][128]
+Largura de material usado: 26
+|v C v Z Z u u u i i a a r r r g g n n s s s h h                                                                                                                                                                                                                   |
+|v C v Z O O O u   i a a r   r g n n n s   s h h                                                                                                                                                                                                                   |
+|v v v Z O u u u i i m m r r r g g n l s s s q h q                                                                                                                                                                                                                 |
+|w w w e e V V V c j m m m k P P P l l l T T T q                                                                                                                                                                                                                   |
+|w F w e e V A V c j j m k k D D P d l L T T q   q                                                                                                                                                                                                                 |
+|w F w b b Y Y c c j j o k k Q E E E d L t t t                                                                                                                                                                                                                     |
+|z F z b Y Y Y y f f o o o Q Q Q x d d L t M M M M                                                                                                                                                                                                                 |
+|z z z p b y y y f f o o I I W W x x x L t t t N N N                                                                                                                                                                                                               |
+|J z p p p y K X f X G G R I W W W S x U U U H H N                                                                                                                                                                                                                 |
+|J J B p p K K X X X G G R R R S S S     U U H                                                                                                                                                                                                                     |
+
+
+Population size:200
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 295.0
+Ordem das peças: [43 32 27 24 23 49 44 50 16 42 46 45 4 34 14 39 35 13 22 41 6 33 15 0 31 36 51 47 20 19 8 12 11 40 48 29 1 26 25 30 21 7 37 9 17 10 2 28 18 38 3 5 ]
+Cortes: 269 [144][125]
+Largura de material usado: 26
+|r r r s s s u u u O O O h h z   z C L a a H H m m                                                                                                                                                                                                                 |
+|r A r s B s     u O W W h h z z z C L a a H l m m m                                                                                                                                                                                                               |
+|r r r s s s u u u j W W W h   z Z Z L e e l l l m                                                                                                                                                                                                                 |
+|g g Y Y P P P i i j j G G f f v Z v L e e J l c                                                                                                                                                                                                                   |
+|g Y Y Y Q q P q i j j G G f f v Z v w w w J J c                                                                                                                                                                                                                   |
+|g g x Q Q Q q i i n n I I f k v v v w F w R c c                                                                                                                                                                                                                   |
+|b b x x x q   q n n n p I k k T T T w F w R R R                                                                                                                                                                                                                   |
+|b E E E x y t t t n p p p k k T T o d F V V V                                                                                                                                                                                                                     |
+|X b X y y y t   N N N p p U U U o o o d V K V   S                                                                                                                                                                                                                 |
+|X X X y D D t t t N M M M M U U o o d d K K S S S                                                                                                                                                                                                                 |
+
+
+Population size:200
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 301.0
+Ordem das peças: [36 35 5 6 9 10 27 26 42 40 44 34 1 51 48 47 28 31 32 25 20 23 45 37 49 50 39 24 13 22 16 11 0 14 29 21 2 38 18 41 17 7 46 12 30 19 15 43 3 4 33 8 ]
+Cortes: 276 [148][128]
+Largura de material usado: 25
+|B k b b C i i w w w f f t t t n n V V V u u u h h                                                                                                                                                                                                                 |
+|k k b q C q i w L w f f t   n n n V   V D D u h h                                                                                                                                                                                                                 |
+|k k K b q i i w L w f   t t t n O O O R u u u   h                                                                                                                                                                                                                 |
+|j K K q z q z v L v g g l N N N O m m R R R r r r                                                                                                                                                                                                                 |
+|j j a a z z z v L v g l l l N W W m m m e e r   r                                                                                                                                                                                                                 |
+|j j a a o z x v v v g g l   y W W W m p e e r r r                                                                                                                                                                                                                 |
+|F G G o o o x x x c Z Z y y y Q d   p p p T T T                                                                                                                                                                                                                   |
+|F G G o o s s s x c Z X y X Q Q Q d   p p T T I I                                                                                                                                                                                                                 |
+|F J U U U s   s c c Z X X X Y Y d d S H H P P P I                                                                                                                                                                                                                 |
+|A J J U U s s s M M M M   Y Y Y S S S H E E E P                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [26 33 9 49 31 42 50 40 46 23 29 11 14 18 30 32 5 43 39 2 24 41 36 38 22 13 0 19 44 34 3 51 48 21 47 16 12 45 35 8 27 15 17 20 25 37 4 7 28 6 10 1 ]
+Cortes: 278 [149][129]
+Largura de material usado: 26
+|a a f f O O O F L r r r m m i i w w w t t t U U U                                                                                                                                                                                                                 |
+|a a f f O y C F L r   r m m m i w   w t P P P U U                                                                                                                                                                                                                 |
+|h h f y y y C F L r r r k m i i w   w t t t P   G G                                                                                                                                                                                                               |
+|h h q y q u u u L n n k k T T T V V V I I b b l G G                                                                                                                                                                                                               |
+|J h d q E E E u n n n k k T T z V z V Q I b l l l                                                                                                                                                                                                                 |
+|J J q d q u u u S n Y Y W W   z z z Q Q Q R b l                                                                                                                                                                                                                   |
+|x A d d o   S S S Y Y Y W W W   z v   v j R R R c                                                                                                                                                                                                                 |
+|x x x o o o H H g g p N N N s s s v   v j j Z Z c                                                                                                                                                                                                                 |
+|e e x o o X H X g p p p N K s   s v v v j j Z c c                                                                                                                                                                                                                 |
+|e e D D B X X X g g p p K K s s s M M M M   Z                                                                                                                                                                                                                     |
+
+
+Population size:400
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 304.0
+Ordem das peças: [35 22 11 16 50 39 8 44 3 31 43 15 21 47 7 42 51 37 23 9 41 38 40 14 30 34 24 49 32 0 48 27 29 17 6 1 28 20 25 33 45 5 2 36 46 19 12 4 10 26 13 18 ]
+Cortes: 278 [148][130]
+Largura de material usado: 26
+|j I I s s s V V V z   z   o i i w w w Z Z u u u                                                                                                                                                                                                                   |
+|j j I s B s V F V z z z o o o i w   w Z t t t u                                                                                                                                                                                                                   |
+|j j A s s s v F v X z X o o i i w d w Z t u u u K                                                                                                                                                                                                                 |
+|W W D D f f v F v X X X   O O O b b d c t t t K K                                                                                                                                                                                                                 |
+|W W W y f f v v v l   m m O x   b d d c     k a a                                                                                                                                                                                                                 |
+|L y y y f P P P l l l m m m x x x b c c   k k a a                                                                                                                                                                                                                 |
+|L y n n r r r P q l q p m e e   x G G h h k k N N N                                                                                                                                                                                                               |
+|L n n n r   r H H q p p p e e g g G G h h T T T N S                                                                                                                                                                                                               |
+|L Q n J r r r H q R q p p Y Y g U U U C h T T S S S                                                                                                                                                                                                               |
+|Q Q Q J J M M M M R R R Y Y Y g g U U C E E E                                                                                                                                                                                                                     |
+
+
+Population size:400
+Max generations:25
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 310.0
+Ordem das peças: [42 29 33 28 20 45 49 18 31 23 5 40 7 15 2 37 38 41 50 25 26 13 35 9 39 19 43 48 47 11 3 22 27 8 51 0 6 16 10 12 34 17 24 44 36 1 32 14 30 21 46 4 ]
+Cortes: 284 [152][132]
+Largura de material usado: 26
+|q A q D D f f   l N N N T T T L W W M M M M k g g                                                                                                                                                                                                                 |
+|d q U U U f f l l l N y T T   L W W W i i k k g                                                                                                                                                                                                                   |
+|q d q U U f H H l y y y r r r L b b K   i k k g g                                                                                                                                                                                                                 |
+|d d t t t S H m m y Z Z r   r L b K K i i Y Y e e                                                                                                                                                                                                                 |
+|h h t S S S o m m m Z j r r r I I b     Y Y Y e e                                                                                                                                                                                                                 |
+|h h t t t o o o m p Z j j w w w I z   z s s s V V V                                                                                                                                                                                                               |
+|F h x B   o o   p p p j j w v w v z z z s   s V   V                                                                                                                                                                                                               |
+|F c x x x P P P   p p n n w v w v   z R s s s u u u                                                                                                                                                                                                               |
+|F c C X x X J P a a n n n Q v v v G G R R R O O O u                                                                                                                                                                                                               |
+|c c C X X X J J a a   n Q Q Q     G G E E E O u u u                                                                                                                                                                                                               |
+
+
+Population size:400
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 299.0
+Ordem das peças: [40 38 23 5 14 24 51 31 6 35 45 39 25 0 20 33 16 2 41 21 15 44 1 32 48 37 42 9 11 29 34 47 30 36 12 50 18 46 7 13 49 4 8 26 17 19 22 43 28 10 3 27 ]
+Cortes: 274 [147][127]
+Largura de material usado: 25
+|A o B f f t t t Q P P P w w w L v   v H H T T T K                                                                                                                                                                                                                 |
+|o o o f f t   Q Q Q   P w c w L v   v H x T T K K                                                                                                                                                                                                                 |
+|o o z f z t t t   V V V w c w L v v v S x x x b b                                                                                                                                                                                                                 |
+|m m z z z n n h h V   V c c q L q S S S a a x b                                                                                                                                                                                                                   |
+|m m m z n n n h h I I s s s d q M M M M a a W W b                                                                                                                                                                                                                 |
+|X m X G G n Z Z h p I s   s q d q k R u u u W W W                                                                                                                                                                                                                 |
+|X X X G G C Z J p p p s s s d d k k R R R u r r r                                                                                                                                                                                                                 |
+|F O O O j C Z J J p p g g l i i k k y u u u r   r                                                                                                                                                                                                                 |
+|F O Y Y j j U U U e e g l l l i y y y N N N r r r                                                                                                                                                                                                                 |
+|F Y Y Y j j   U U e e g g l i i y E E E N D D                                                                                                                                                                                                                     |
+
+
+Population size:400
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 294.0
+Ordem das peças: [34 30 38 6 21 9 49 0 41 50 44 26 20 40 2 11 51 19 22 23 31 42 10 48 7 47 36 5 1 25 45 33 46 32 24 16 28 29 43 37 13 35 39 3 18 8 15 4 14 27 12 17 ]
+Cortes: 268 [144][124]
+Largura de material usado: 26
+|i i V V V H H   o N N N O O O k Z Z Y Y r r r P P P                                                                                                                                                                                                               |
+|A i V   V H y o o o N q O q k k Z Y Y Y r   r b b P                                                                                                                                                                                                               |
+|i i J   y y y o o T T T q d k k Z u u u r r r b                                                                                                                                                                                                                   |
+|e e J J y s s s L T T q K q d F t t t u c j I I b                                                                                                                                                                                                                 |
+|e e x D D s   s L W W K K d d F t u u u c j j I                                                                                                                                                                                                                   |
+|m m x x x s s s L W W W w w w F t t t c c j j S                                                                                                                                                                                                                   |
+|m m m p x a a z L z f f w v w v h h g g l S S S                                                                                                                                                                                                                   |
+|B m p p p a a z z z f f w v w v h h g l l l n n                                                                                                                                                                                                                   |
+|G G C p p U U U z X f X R v v v Q h g g l n n n                                                                                                                                                                                                                   |
+|G G C E E E U U   X X X R R R Q Q Q M M M M n                                                                                                                                                                                                                     |
+
+
+Population size:400
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 309.0
+Ordem das peças: [7 21 36 20 35 22 51 37 39 42 5 23 34 9 38 28 15 6 49 41 46 43 44 50 40 26 12 19 48 24 0 30 8 1 47 4 3 33 31 45 14 29 17 27 13 10 18 32 2 11 25 16 ]
+Cortes: 282 [151][131]
+Largura de material usado: 27
+|H H W W E E E J P P P   r r r a a O O O t t t S L                                                                                                                                                                                                                 |
+|H A W W W n n J J x P   r   r a a O e e t S S S L                                                                                                                                                                                                                 |
+|V V V F n n n m m x x x r r r T T T e e t t t   L                                                                                                                                                                                                                 |
+|V k V F   n C m m m p x s s s T T   h h d N N N L                                                                                                                                                                                                                 |
+|k k z F z X C X m p p p s   s w w w h h   d N g g Q                                                                                                                                                                                                               |
+|k k z z z X X X G G p p s s s w v w v h d d   g Q Q Q                                                                                                                                                                                                             |
+|U U U z I I i i G G M M M M y w v w v f f b b g g                                                                                                                                                                                                                 |
+|j U U l q I q i c u u u y y y o v v v f f b   Z Z                                                                                                                                                                                                                 |
+|j j l l l q i i c D D u y K o o o Y Y f R   b Z                                                                                                                                                                                                                   |
+|j j B l q   q c c u u u K K o o Y Y Y   R R R Z                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 288.0
+Ordem das peças: [43 14 42 18 32 27 45 49 46 24 13 44 21 47 29 33 16 39 51 35 36 4 17 11 50 40 48 26 10 34 41 28 25 38 5 37 23 20 19 22 15 30 9 0 12 7 3 31 8 6 2 1 ]
+Cortes: 263 [142][121]
+Largura de material usado: 25
+|r r r g g Y Y V V V E E E k w w w Z Z U U U C f f                                                                                                                                                                                                                 |
+|r A r g Y Y Y V L V n n k k w   w Z m m U U C f f                                                                                                                                                                                                                 |
+|r r r g g N N N L n n n k k w y w Z m m m W W f                                                                                                                                                                                                                   |
+|O O O t t t N v L v n H H y y y K I I m l W W W                                                                                                                                                                                                                   |
+|O b b t u u u v L v z H z y o K K p I l l l e e                                                                                                                                                                                                                   |
+|q b q t t t u v v v z z z o o o p p p X l X e e                                                                                                                                                                                                                   |
+|d q b x u u u D D h h z R o o i i p p X X X G G                                                                                                                                                                                                                   |
+|q d q x x x s s s h h j R R R   i c F T T T G G                                                                                                                                                                                                                   |
+|d d S B Q x s   s J h j j a a i i c F T T P P P                                                                                                                                                                                                                   |
+|S S S Q Q Q s s s J J j j a a   c c F M M M M P                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 291.0
+Ordem das peças: [35 22 11 16 50 39 8 44 3 31 43 15 21 47 7 42 37 38 23 9 41 51 30 14 19 34 24 49 32 0 48 27 29 17 6 12 28 20 25 33 45 5 1 46 26 40 2 18 4 36 13 10 ]
+Cortes: 266 [143][123]
+Largura de material usado: 25
+|j I I s s s V V V m m E E E i i w w w Z Z u u u                                                                                                                                                                                                                   |
+|j j I s B s V F V m m m e e   i w   w Z t t t u                                                                                                                                                                                                                   |
+|j j A s s s v F v X m X e e i i w d w Z t u u u K                                                                                                                                                                                                                 |
+|W W D D f f v F v X X X O O O C b b d c t t t K K                                                                                                                                                                                                                 |
+|W W W y f f v v v l   z O z x C b d d c a a N N N                                                                                                                                                                                                                 |
+|L y y y f P P P l l l z z z x x x b c c a a o N                                                                                                                                                                                                                   |
+|L y n n r r r P q l q p z T T T x G G h h o o o                                                                                                                                                                                                                   |
+|L n n n r   r H H q p p p T T g g G G h h o o k                                                                                                                                                                                                                   |
+|L Q n J r r r H q R q p p Y Y g U U U   h S k k                                                                                                                                                                                                                   |
+|Q Q Q J J M M M M R R R Y Y Y g g U U S S S k k                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 300.0
+Ordem das peças: [7 21 36 20 35 22 51 37 39 42 5 23 34 9 38 28 15 6 49 41 46 43 44 50 40 26 12 19 48 24 0 30 8 1 47 4 3 33 31 27 10 2 17 14 13 32 45 29 16 25 18 11 ]
+Cortes: 275 [148][127]
+Largura de material usado: 25
+|H H W W E E E J P P P   r r r a a O O O b b t t t                                                                                                                                                                                                                 |
+|H A W W W n n J J x P   r   r a a O e e b   t                                                                                                                                                                                                                     |
+|V V V F n n n m m x x x r r r T T T e e R b t t t                                                                                                                                                                                                                 |
+|V k V F   n C m m m p x s s s T T   h h R R R Z Z                                                                                                                                                                                                                 |
+|k k z F z X C X m p p p s   s w w w h h N N N Z L                                                                                                                                                                                                                 |
+|k k z z z X X X G G p p s s s w v w v h   N d Z L                                                                                                                                                                                                                 |
+|U U U z I I i i G G M M M M y w v w v f f g g d L                                                                                                                                                                                                                 |
+|j U U l q I q i c u u u y y y o v v v f f g d d L                                                                                                                                                                                                                 |
+|j j l l l q i i c D D u y K o o o Y Y f Q g g   S                                                                                                                                                                                                                 |
+|j j B l q   q c c u u u K K o o Y Y Y Q Q Q S S S                                                                                                                                                                                                                 |
+
+
+Population size:400
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.4
+fitness: 288.0
+Ordem das peças: [43 14 42 18 32 27 45 49 46 24 13 44 21 47 29 33 16 39 51 35 36 4 17 11 50 40 48 26 10 34 41 28 25 38 5 37 23 20 19 22 15 30 9 0 12 7 3 31 8 6 2 1 ]
+Cortes: 263 [142][121]
+Largura de material usado: 25
+|r r r g g Y Y V V V E E E k w w w Z Z U U U C f f                                                                                                                                                                                                                 |
+|r A r g Y Y Y V L V n n k k w   w Z m m U U C f f                                                                                                                                                                                                                 |
+|r r r g g N N N L n n n k k w y w Z m m m W W f                                                                                                                                                                                                                   |
+|O O O t t t N v L v n H H y y y K I I m l W W W                                                                                                                                                                                                                   |
+|O b b t u u u v L v z H z y o K K p I l l l e e                                                                                                                                                                                                                   |
+|q b q t t t u v v v z z z o o o p p p X l X e e                                                                                                                                                                                                                   |
+|d q b x u u u D D h h z R o o i i p p X X X G G                                                                                                                                                                                                                   |
+|q d q x x x s s s h h j R R R   i c F T T T G G                                                                                                                                                                                                                   |
+|d d S B Q x s   s J h j j a a i i c F T T P P P                                                                                                                                                                                                                   |
+|S S S Q Q Q s s s J J j j a a   c c F M M M M P                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 289.0
+Ordem das peças: [32 19 44 37 14 18 42 29 34 49 24 51 41 31 39 11 27 17 23 3 12 43 7 1 46 6 22 45 15 8 47 5 21 36 48 26 50 4 30 40 9 38 10 33 0 35 20 13 28 16 25 2 ]
+Cortes: 264 [141][123]
+Largura de material usado: 25
+|g g l q A q Y Y f f b b u u u v C v w w w h h Z Z                                                                                                                                                                                                                 |
+|g l l l q Y Y Y f f b E E E u v C v w c w h h Z                                                                                                                                                                                                                   |
+|g g l q x q I I f n n b u u u v v v w c w j h Z                                                                                                                                                                                                                   |
+|T T T d x x x I n n n H H G G V V V c c y j j                                                                                                                                                                                                                     |
+|T T D D d z x z F n X H X G G V K V y y y j j                                                                                                                                                                                                                     |
+|s s s d d z z z F L X X X W W K K k y   m m U U U                                                                                                                                                                                                                 |
+|s B s J i i z p F L r r r W W W k k e e m m m U U                                                                                                                                                                                                                 |
+|s s s J J i p p p L r   r t t t k k e e o m N N N                                                                                                                                                                                                                 |
+|O O O S i i R p p L r r r t P P P a a o o o Q N                                                                                                                                                                                                                   |
+|O S S S     R R R M M M M t t t P a a o o Q Q Q                                                                                                                                                                                                                   |
+
+
+Population size:400
+Max generations:200
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:DM
+Mutation prob.: 0.4
+fitness: 299.0
+Ordem das peças: [43 44 19 25 50 24 33 42 30 29 23 41 48 47 14 36 18 31 32 34 4 9 27 3 28 1 38 17 39 37 51 26 10 15 40 7 49 6 11 35 45 21 16 0 8 12 46 2 22 5 13 20 ]
+Cortes: 273 [147][126]
+Largura de material usado: 26
+|r r r D D y w w w   g g   m m P P P G G L V V V                                                                                                                                                                                                                   |
+|r B r y y y w v w v g i i m m m C P G G L V Q V                                                                                                                                                                                                                   |
+|r r r y Y Y w v w v g g i c m l C H H F L Q Q Q                                                                                                                                                                                                                   |
+|s s s Y Y Y p v v v S i i c l l l H   F L u u u                                                                                                                                                                                                                   |
+|s A s h h p p p S S S J c c z l z x   F t t t u                                                                                                                                                                                                                   |
+|s s s h h d p p E E E J J   z z z x x x t u u u                                                                                                                                                                                                                   |
+|T T T q h q d O O O   b b n n z K I I x t t t N N N                                                                                                                                                                                                               |
+|T T Z Z q d d O k f f b n n n K K o I j M M M M N                                                                                                                                                                                                                 |
+|e e Z q X q X k k f f R b n a a o o o j j W W U U U                                                                                                                                                                                                               |
+|e e Z   X X X k k f   R R R a a o o   j j W W W U U                                                                                                                                                                                                               |
