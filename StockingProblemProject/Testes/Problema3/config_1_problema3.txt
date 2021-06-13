@@ -2,7 +2,7 @@ Runs: 50
 
 Population_size: 50, 100, 150
 
-Max_generations: 100
+Max_generations: 125, 175
 
 //--------------------------------
 

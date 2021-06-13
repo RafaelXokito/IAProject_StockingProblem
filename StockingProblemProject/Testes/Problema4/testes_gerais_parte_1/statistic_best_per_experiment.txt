@@ -1,0 +1,40 @@
+
+
+Population size:50
+Max generations:150
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.7
+fitness: 243.0
+Ordem das peças: [14 22 11 26 20 7 19 9 16 15 21 3 25 17 6 12 28 5 0 1 13 4 23 27 2 10 8 18 24 ]
+Cortes: 209 [109][100]
+Largura de material usado: 34
+|O O A A   T W     Q Q   J J V V B B     S S M F F E E E E E E Y Y                                                                                                                                                             |
+|a O O O T T W Q Q Q Q J J Z Z V V B B B S S M F F E K K K X C Y Y                                                                                                                                                             |
+|a H H O O W W Q Q Q J J G G Z c V V   B M M M M F F K K K X C Y Y                                                                                                                                                             |
+|a a H O O W W Q Q J J Z G G Z c c V V V V V M   F F     X X C                                                                                                                                                                 |
+|D a H H W W L L   J J Z Z Z Z c c I I V V V V     N     X X C C                                                                                                                                                               |
+|P P P P W L L L L L J J R R R R R I V V V   N   N N X X X X b C                                                                                                                                                               |
+|U U U U U U U U L L J J J   R R R   V V N N N N N N   b b b b b b b                                                                                                                                                           |
+
+
+Population size:50
+Max generations:150
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.8
+fitness: 244.0
+Ordem das peças: [12 10 23 4 18 9 2 5 14 7 27 19 22 11 0 21 16 20 1 26 13 6 17 3 15 25 28 24 8 ]
+Cortes: 211 [111][100]
+Largura de material usado: 33
+|S S M E E E E E E J J     T a G G W V V U U U U U U U U Q Q c Z Z                                                                                                                                                             |
+|S S M E P P P P J J O O T T a G G W   V V R R R R R Q Q Q Q c c Z                                                                                                                                                             |
+|M M M M X C   J J F F O O O a a W W     V V   R R R Q Q Q Z c c Z                                                                                                                                                             |
+|A A M   X C J J   F F H H O O a W W B B   V V V V V Q Q   Z Z Z Z                                                                                                                                                             |
+|K K K X X C J J     F F H O O W W L L B B B   V V V V I I N Y Y                                                                                                                                                               |
+|K K K X X C C J J   F F H H b W L L L L L B V V V   N I N N Y Y                                                                                                                                                               |
+|D X X X X   C J J J   b b b b b b b   L L   V V N N N N N N Y Y                                                                                                                                                               |

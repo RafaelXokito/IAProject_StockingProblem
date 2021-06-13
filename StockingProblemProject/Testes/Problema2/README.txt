@@ -5,7 +5,7 @@ Assim executando testes gerais a este mais precisos.
 Com isto pudémos concluir que por ser um dataset mais pequeno não havia muita descrepância de fitness. No entanto começamos a ver 
 certas combinações a destacarem-se por aparecerem mais frequêntemente com valores mais baixos.
 
-Apresento então o top10 resultados ordenados por Average(fitness):
+Apresento então o top 10 resultados ordenados por Average(fitness):
 (Devido a algum problema de configuração o desvio padrão não está no formáto desejado.)
 
 Prob 0's	Population size:	Max generations:	Selection:		Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
