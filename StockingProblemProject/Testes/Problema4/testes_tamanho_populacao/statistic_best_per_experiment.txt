@@ -1,0 +1,60 @@
+
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.9
+fitness: 238.0
+Ordem das peças: [11 2 9 24 26 25 8 14 27 21 12 20 23 28 4 1 17 7 5 16 13 18 0 22 6 10 3 15 19 ]
+Cortes: 206 [107][99]
+Largura de material usado: 32
+|D L L     I I J J O O   V V B B     G G M E E E E E E   K K K W                                                                                                                                                               |
+|L L L L L I J J Z Z O O O V V B B B G G M E X R R R R R K K K W                                                                                                                                                               |
+|C Y Y L L J J S S Z H H O O V V   B M M M M X F F R R R Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z S S Z   H O O c V V V V V M X X F F   Q Q Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z Z Z Z b H H   c c   V V V V X X   F F Q Q Q W W N                                                                                                                                                               |
+|C C   a a J J b b b b b b b c c V V V X X X X T F F Q Q N W N N                                                                                                                                                               |
+|  C A A a J J J U U U U U U U U V V P P P P T T     N N N N N N                                                                                                                                                               |
+
+
+Population size:50
+Max generations:125
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.9
+fitness: 238.0
+Ordem das peças: [11 2 9 24 26 25 8 14 27 21 12 20 23 28 4 1 17 7 5 16 13 18 0 22 6 10 3 15 19 ]
+Cortes: 206 [107][99]
+Largura de material usado: 32
+|D L L     I I J J O O   V V B B     G G M E E E E E E   K K K W                                                                                                                                                               |
+|L L L L L I J J Z Z O O O V V B B B G G M E X R R R R R K K K W                                                                                                                                                               |
+|C Y Y L L J J S S Z H H O O V V   B M M M M X F F R R R Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z S S Z   H O O c V V V V V M X X F F   Q Q Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z Z Z Z b H H   c c   V V V V X X   F F Q Q Q W W N                                                                                                                                                               |
+|C C   a a J J b b b b b b b c c V V V X X X X T F F Q Q N W N N                                                                                                                                                               |
+|  C A A a J J J U U U U U U U U V V P P P P T T     N N N N N N                                                                                                                                                               |
+
+
+Population size:50
+Max generations:150
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.9
+fitness: 238.0
+Ordem das peças: [11 2 9 24 26 25 8 14 27 21 12 20 23 28 4 1 17 7 5 16 13 18 0 22 6 10 3 15 19 ]
+Cortes: 206 [107][99]
+Largura de material usado: 32
+|D L L     I I J J O O   V V B B     G G M E E E E E E   K K K W                                                                                                                                                               |
+|L L L L L I J J Z Z O O O V V B B B G G M E X R R R R R K K K W                                                                                                                                                               |
+|C Y Y L L J J S S Z H H O O V V   B M M M M X F F R R R Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z S S Z   H O O c V V V V V M X X F F   Q Q Q Q W W                                                                                                                                                               |
+|C Y Y a J J Z Z Z Z b H H   c c   V V V V X X   F F Q Q Q W W N                                                                                                                                                               |
+|C C   a a J J b b b b b b b c c V V V X X X X T F F Q Q N W N N                                                                                                                                                               |
+|  C A A a J J J U U U U U U U U V V P P P P T T     N N N N N N                                                                                                                                                               |

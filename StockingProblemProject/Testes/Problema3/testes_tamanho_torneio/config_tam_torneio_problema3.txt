@@ -1,14 +1,14 @@
 Runs: 50
 
-Population_size: 50, 100, 150, 200, 400
+Population_size: 150
 
-Max_generations: 100, 125, 150, 175
+Max_generations: 150
 
 //--------------------------------
 
 Selection: tournament
 
-Tournament_size: 2
+Tournament_size: 2, 4, 6, 8, 10
 
 //--------------------------------
 
@@ -28,7 +28,7 @@ Probability_of_1s: 0.05
 
 //--------------------------------
 
-Problem_file: Problema3.txt
+Problem_file: Problema2.txt
 
 //--------------------------------
 
