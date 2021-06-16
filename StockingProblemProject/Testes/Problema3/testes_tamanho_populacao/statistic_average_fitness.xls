@@ -18,3 +18,4 @@ Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:
 400	100	Tournament(2)	PMX	0.6	EM	0.4		353.82	4.55495334773036
 400	125	Tournament(2)	PMX	0.6	EM	0.4		351.66	5.870638806807997
 400	150	Tournament(2)	PMX	0.6	EM	0.4		349.82	6.348826663250462
+400	175	Tournament(2)	PMX	0.6	EM	0.4		347.52	6.735695955133363

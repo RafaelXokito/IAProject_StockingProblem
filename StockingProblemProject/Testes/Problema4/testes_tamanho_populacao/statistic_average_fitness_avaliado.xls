@@ -1,0 +1,53 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:		Population size:	Max generations:	Average:
+50	100	Tournament(4)	PMX	0,8	EM	0,9		250,66	4,550208786		pop 50	ger 100	250,66
+50	125	Tournament(4)	PMX	0,8	EM	0,9		250,14	4,4407657			ger 125	250,14
+50	150	Tournament(4)	PMX	0,8	EM	0,9		249,46	4,267130183			ger 150	249,46
+50	175	Tournament(4)	PMX	0,8	EM	0,9		249,08	4,213502106			ger 175	249,08
+50	200	Tournament(4)	PMX	0,8	EM	0,9		248,66	4,057634779			ger 200	248,66
+100	100	Tournament(4)	PMX	0,8	EM	0,9		246,72	4,242829245		pop 100	ger 100	246,72
+100	125	Tournament(4)	PMX	0,8	EM	0,9		245,54	3,894663015			ger 125	245,54
+100	150	Tournament(4)	PMX	0,8	EM	0,9		244,3	3,287856445			ger 150	244,3
+100	175	Tournament(4)	PMX	0,8	EM	0,9		244,02	3,120833222			ger 175	244,02
+100	200	Tournament(4)	PMX	0,8	EM	0,9		243,56	2,940476152			ger 200	243,56
+150	100	Tournament(4)	PMX	0,8	EM	0,9		245,9	4,614108798		pop 150	ger 100	245,9
+150	125	Tournament(4)	PMX	0,8	EM	0,9		244,56	5,138715793			ger 125	244,56
+150	150	Tournament(4)	PMX	0,8	EM	0,9		243,76	5,01421978			ger 150	243,76
+150	175	Tournament(4)	PMX	0,8	EM	0,9		243,28	4,766717948			ger 175	243,28
+150	200	Tournament(4)	PMX	0,8	EM	0,9		243,02	4,532063548			ger 200	243,02
+200	100	Tournament(4)	PMX	0,8	EM	0,9		244,74	4,828291623		pop 200	ger 100	244,74
+200	125	Tournament(4)	PMX	0,8	EM	0,9		243,4	4,57383865			ger 125	243,4
+200	150	Tournament(4)	PMX	0,8	EM	0,9		242,64	4,40799274			ger 150	242,64
+200	175	Tournament(4)	PMX	0,8	EM	0,9		242,12	4,352654363			ger 175	242,12
+200	200	Tournament(4)	PMX	0,8	EM	0,9		241,78	4,09042785			ger 200	241,78
+400	100	Tournament(4)	PMX	0,8	EM	0,9		246,12	5,335316298		pop 400	ger 100	246,12
+400	125	Tournament(4)	PMX	0,8	EM	0,9		244,78	5,73163153			ger 125	244,78
+400	150	Tournament(4)	PMX	0,8	EM	0,9		243,74	5,410397398			ger 150	243,74
+400	175	Tournament(4)	PMX	0,8	EM	0,9		242,8	5,257375771			ger 175	242,8
+400	200	Tournament(4)	PMX	0,8	EM	0,9		241,92	5,283332282			ger 200	241,92
+													
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:				
+200	200	Tournament(4)	PMX	0,8	EM	0,9		241,78	4,09042785				
+400	200	Tournament(4)	PMX	0,8	EM	0,9		241,92	5,283332282				
+200	175	Tournament(4)	PMX	0,8	EM	0,9		242,12	4,352654363				
+200	150	Tournament(4)	PMX	0,8	EM	0,9		242,64	4,40799274				
+400	175	Tournament(4)	PMX	0,8	EM	0,9		242,8	5,257375771				
+150	200	Tournament(4)	PMX	0,8	EM	0,9		243,02	4,532063548				
+150	175	Tournament(4)	PMX	0,8	EM	0,9		243,28	4,766717948				
+200	125	Tournament(4)	PMX	0,8	EM	0,9		243,4	4,57383865				
+100	200	Tournament(4)	PMX	0,8	EM	0,9		243,56	2,940476152				
+400	150	Tournament(4)	PMX	0,8	EM	0,9		243,74	5,410397398				
+150	150	Tournament(4)	PMX	0,8	EM	0,9		243,76	5,01421978				
+100	175	Tournament(4)	PMX	0,8	EM	0,9		244,02	3,120833222				
+100	150	Tournament(4)	PMX	0,8	EM	0,9		244,3	3,287856445				
+150	125	Tournament(4)	PMX	0,8	EM	0,9		244,56	5,138715793				
+200	100	Tournament(4)	PMX	0,8	EM	0,9		244,74	4,828291623				
+400	125	Tournament(4)	PMX	0,8	EM	0,9		244,78	5,73163153				
+100	125	Tournament(4)	PMX	0,8	EM	0,9		245,54	3,894663015				
+150	100	Tournament(4)	PMX	0,8	EM	0,9		245,9	4,614108798				
+400	100	Tournament(4)	PMX	0,8	EM	0,9		246,12	5,335316298				
+100	100	Tournament(4)	PMX	0,8	EM	0,9		246,72	4,242829245				
+50	200	Tournament(4)	PMX	0,8	EM	0,9		248,66	4,057634779				
+50	175	Tournament(4)	PMX	0,8	EM	0,9		249,08	4,213502106				
+50	150	Tournament(4)	PMX	0,8	EM	0,9		249,46	4,267130183				
+50	125	Tournament(4)	PMX	0,8	EM	0,9		250,14	4,4407657				
+50	100	Tournament(4)	PMX	0,8	EM	0,9		250,66	4,550208786				

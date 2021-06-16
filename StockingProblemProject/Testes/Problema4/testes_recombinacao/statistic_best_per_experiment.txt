@@ -1,0 +1,540 @@
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.1
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 242.0
+Ordem das peças: [2 26 22 27 24 11 21 5 1 20 13 6 28 9 4 15 25 14 23 0 17 7 10 19 16 3 18 12 8 ]
+Cortes: 208 [107][101]
+Largura de material usado: 34
+|C a G G W Y Y V V B B   H H F F E E E E E E   J J O O R R R R R M                                                                                                                                                             |
+|C a G G W Y Y c V V B B B H F F E K K K     J J Z Z O O O R R R M                                                                                                                                                             |
+|C a a W W Y Y c c V V   B H H F F K K K   J J S S Z   X O O M M M M                                                                                                                                                           |
+|C C a W W L L c c   V V V V V F F I I N J J Z S S Z   X O O Q Q M                                                                                                                                                             |
+|D C W W L L L L L   T   V V V V N I N N J J Z Z Z Z X X Q Q Q Q                                                                                                                                                               |
+|A A W b       L L T T V V V N N N N N N   J J       X X Q Q Q                                                                                                                                                                 |
+|b b b b b b b P P P P V V U U U U U U U U J J J X X X X Q Q                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 239.0
+Ordem das peças: [10 0 9 22 21 2 23 16 13 26 1 7 11 14 4 28 20 12 15 6 25 5 18 17 3 24 8 27 19 ]
+Cortes: 205 [107][98]
+Largura de material usado: 34
+|K K K   J J W V V B B   H H E E E E E E Q Q c P P P P S S R R R R R                                                                                                                                                           |
+|K K K J J   W C V V B B B H E G G X Q Q Q Q c c M F F S S Y Y R R R                                                                                                                                                           |
+|A A J J   W W C   V V   B H H G G X Q Q Q   c c M F F Z Z Y Y                                                                                                                                                                 |
+|a J J I I W W C     V V V V V   X X Q Q O O M M M M F F Z Y Y                                                                                                                                                                 |
+|a J J I W W T C C   N   V V V V X X   L L O O O M Z F F Z                                                                                                                                                                     |
+|a a J J W T T N C N N V V V X X X X L L L L L O O Z Z Z Z b                                                                                                                                                                   |
+|D a J J J N N N N N N V V U U U U U U U U L L O O   b b b b b b b                                                                                                                                                             |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.3
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 240.0
+Ordem das peças: [24 9 21 25 1 26 22 5 8 7 4 27 3 23 13 14 10 16 18 2 20 6 17 11 28 19 15 0 12 ]
+Cortes: 207 [107][100]
+Largura de material usado: 33
+|Y Y I I J J V V B B   H H E E E E E E   X C O O U U U U U U U U                                                                                                                                                               |
+|Y Y I J J Z Z V V B B B H E G G W c     X C   O O O R R R R R M                                                                                                                                                               |
+|Y Y J J S S Z   V V   B H H G G W c c X X C       O O   R R R M                                                                                                                                                               |
+|a J J Z S S Z F F V V V V V   W W c c X X C C   N O O Q Q M M M M                                                                                                                                                             |
+|a J J Z Z Z Z F F A A V V V V W W X X X X N C N N Q Q Q Q L L M                                                                                                                                                               |
+|a a J J   K K K F F V V V T W W     b N N N N N N Q Q Q L L L L L                                                                                                                                                             |
+|D a J J J K K K F F V V T T W b b b b b b b       Q Q P P P P L L                                                                                                                                                             |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 240.0
+Ordem das peças: [4 16 13 20 9 25 21 5 1 2 23 8 0 17 22 12 3 27 24 10 6 11 14 18 26 28 7 19 15 ]
+Cortes: 206 [107][99]
+Largura de material usado: 34
+|E E E E E E M G G   J J V V B B     Y Y C c R R R R R W O O P P P P                                                                                                                                                           |
+|E D Q Q A A M G G J J Z Z V V B B B Y Y C c c X R R R W a O O O                                                                                                                                                               |
+|Q Q Q Q M M M M J J S S Z   V V   B Y Y C c c X     W W a H H O O                                                                                                                                                             |
+|Q Q Q I I N M J J Z S S Z F F V V V V V C C X X     W W a a H O O                                                                                                                                                             |
+|Q Q N I N N   J J Z Z Z Z F F     V V V V C X X   W W L L a H H                                                                                                                                                               |
+|N N N N N N     J J   K K K F F V V V T X X X X b W L L L L L                                                                                                                                                                 |
+|U U U U U U U U J J J K K K F F V V T T   b b b b b b b   L L                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.5
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 240.0
+Ordem das peças: [16 22 11 24 0 9 7 15 23 2 27 18 12 25 21 6 17 28 4 13 5 3 10 20 8 14 26 19 1 ]
+Cortes: 207 [106][101]
+Largura de material usado: 33
+|A A Q Q W H H S S   J J X C G G M   V V   E E E E E E N I I                                                                                                                                                                   |
+|Q Q Q Q W a H S S J J   X C G G M Z Z V V E     N   N N I B B                                                                                                                                                                 |
+|Q Q Q W W a H H J J T X X C M M M M Z c V V N N N N N N O O B B B                                                                                                                                                             |
+|Q Q D W W a a J J T T X X C C Z M   Z c c V V V V V   F F O O O B                                                                                                                                                             |
+|Y Y W W L L a J J X X X X b C Z Z Z Z c c     V V V V F F     O O                                                                                                                                                             |
+|Y Y W L L L L L J J b b b b b b b R R R R R V V V K K K F F   O O                                                                                                                                                             |
+|Y Y P P P P L L J J J U U U U U U U U R R R V V   K K K F F                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 239.0
+Ordem das peças: [2 21 12 5 13 22 4 3 19 1 6 9 25 14 28 26 20 24 17 23 10 27 15 7 8 11 18 16 0 ]
+Cortes: 206 [107][99]
+Largura de material usado: 33
+|C V V B B   H H F F G G W E E E E E E J J O O R R R R R X     Q Q                                                                                                                                                             |
+|C   V V B B B H F F G G W E K K K   J J Z Z O O O R R R X Q Q Q Q                                                                                                                                                             |
+|C     V V   B H H F F W W c K K K J J S S Z Y Y O O   X X Q Q Q                                                                                                                                                               |
+|C C M   V V V V V F F W W c c a J J Z S S Z Y Y O O   X X Q Q                                                                                                                                                                 |
+|D C M       V V V V W W N c c a J J Z Z Z Z Y Y   X X X X L L                                                                                                                                                                 |
+|M M M M T V V V   N W N N I I a a J J U U U U U U U U b L L L L L                                                                                                                                                             |
+|A A M T T V V N N N N N N I     a J J J P P P P b b b b b b b L L                                                                                                                                                             |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 230.0
+Ordem das peças: [26 3 16 17 22 2 9 1 11 25 14 27 21 24 18 23 8 28 12 4 5 20 19 15 7 10 0 13 6 ]
+Cortes: 198 [103][95]
+Largura de material usado: 32
+|a R R R R R W C Y Y I I J J O O   V V   K K K G G M E E E E E E                                                                                                                                                               |
+|a B B R R R W C Y Y I J J Z Z O O O V V K K K G G M E X F F                                                                                                                                                                   |
+|a a B B B W W C Y Y J J S S Z H H O O V V A A M M M M X F F                                                                                                                                                                   |
+|D a Q Q B W W C C J J Z S S Z   H O O c V V V V V M X X   F F                                                                                                                                                                 |
+|Q Q Q Q W W L L C J J Z Z Z Z b H H   c c   V V V V X X   F F N                                                                                                                                                               |
+|Q Q Q T W L L L L L J J b b b b b b b c c V V V X X X X N   N N                                                                                                                                                               |
+|Q Q T T P P P P L L J J J U U U U U U U U V V       N N N N N N                                                                                                                                                               |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 239.0
+Ordem das peças: [17 16 22 27 25 9 11 13 21 1 14 12 7 20 23 26 24 10 28 5 2 15 18 4 3 6 19 8 0 ]
+Cortes: 203 [106][97]
+Largura de material usado: 36
+|R R R R R W B B P P P P J J   V V   H H K K K M I I Y Y F F E E E E E E                                                                                                                                                       |
+|S S R R R W a B B B   J J O O   V V   H K K K M I X Y Y F F E                                                                                                                                                                 |
+|S S Q Q W W a Z Z B J J L L O O O V V H H M M M M X Y Y C F F                                                                                                                                                                 |
+|Q Q Q Q W W a a Z J J L L L L L O O V V V V V M X X c   C F F                                                                                                                                                                 |
+|Q Q Q W W Z   a Z J J   G G L L O O N   V V V V X X c c C A A                                                                                                                                                                 |
+|Q Q   W b Z Z Z Z T J J G G   N   N N V V V X X X X c c C C                                                                                                                                                                   |
+|D b b b b b b b T T J J J N N N N N N V V U U U U U U U U C                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.9
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 235.0
+Ordem das peças: [2 9 25 14 3 22 12 27 10 24 21 26 28 5 20 4 13 1 18 7 8 11 16 23 17 15 19 6 0 ]
+Cortes: 203 [105][98]
+Largura de material usado: 32
+|C Y Y I I J J O O P P P P W V V B B   H H F F   L L R R R R R                                                                                                                                                                 |
+|C Y Y I J J Z Z O O O     W c V V B B B H F F L L L L L R R R                                                                                                                                                                 |
+|C Y Y J J S S Z   a O O W W c c V V   B H H F F G G L L   Q Q X                                                                                                                                                               |
+|C C J J Z S S Z M a O O W W c c   V V V V V F F G G N Q Q Q Q X                                                                                                                                                               |
+|D C J J Z Z Z Z M a a W W E E E E E E V V V V N   N N Q Q Q X X                                                                                                                                                               |
+|K K K J J   M M M M a W b E       T V V V N N N N N N Q Q   X X                                                                                                                                                               |
+|K K K J J J A A M b b b b b b b T T V V U U U U U U U U X X X X                                                                                                                                                               |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.1
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 237.0
+Ordem das peças: [17 22 16 13 20 5 9 21 25 6 10 11 23 12 4 2 27 28 15 14 3 0 8 26 1 7 19 24 18 ]
+Cortes: 204 [104][100]
+Largura de material usado: 33
+|R R R R R W U U U U U U U U J J V V B B     S S M E E E E E E Y Y                                                                                                                                                             |
+|G G R R R W F F A A   I I J J T c V V B B B S S M E X O O     Y Y                                                                                                                                                             |
+|G G Q Q W W F F Z Z C I J J T T c c V V   B M M M M X a O O O Y Y                                                                                                                                                             |
+|Q Q Q Q W W D F F Z C J J K K K c c   V V V V V M X X a H H O O                                                                                                                                                               |
+|Q Q Q W W N Z F F Z C J J K K K L L       V V V V X X a a H O O                                                                                                                                                               |
+|Q Q N W N N Z Z Z Z C C J J   L L L L L V V V X X X X b a H H                                                                                                                                                                 |
+|N N N N N N P P P P   C J J J       L L V V     b b b b b b b                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.2
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 242.0
+Ordem das peças: [21 28 24 12 4 20 5 7 25 9 11 14 22 27 10 23 16 3 15 26 13 2 8 18 1 0 19 17 6 ]
+Cortes: 208 [107][101]
+Largura de material usado: 34
+|V V D H H K K K M F F P P P P Q Q   J J B B     R R R R R X C                                                                                                                                                                 |
+|c V V   H K K K M F F Z Z Q Q Q Q J J O O B B B   W R R R X C                                                                                                                                                                 |
+|c c V V H H M M M M F F Z Q Q Q J J L L O O O B   W     X X C                                                                                                                                                                 |
+|c c a V V V V V M Z F F Z Q Q J J L L L L L O O W W     X X C C   N                                                                                                                                                           |
+|Y Y a A A V V V V Z Z Z Z I I J J   S S L L O O W W X X X X N C N N                                                                                                                                                           |
+|Y Y a a V V V E E E E E E I     J J S S T G G W W     b N N N N N N                                                                                                                                                           |
+|Y Y   a V V   E U U U U U U U U J J J T T G G W b b b b b b b                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.3
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 236.0
+Ordem das peças: [5 22 26 27 25 21 23 12 3 4 7 9 11 18 10 15 24 14 13 28 20 17 2 19 1 16 8 0 6 ]
+Cortes: 203 [105][98]
+Largura de material usado: 33
+|F F S S W   V V   H H K K K M E E E E E E J J U U U U U U U U Q Q                                                                                                                                                             |
+|F F S S W A A V V   H K K K M E X   I I J J O O R R R R R Q Q Q Q                                                                                                                                                             |
+|a F F W W c Z Z V V H H M M M M X C I J J L L O O O R R R Q Q Q                                                                                                                                                               |
+|a F F W W c c Z   V V V V V M X X C J J L L L L L O O B B Q Q                                                                                                                                                                 |
+|a a W W Z c c Z Y Y   V V V V X X C J J     T L L O O N B B B                                                                                                                                                                 |
+|D a W b Z Z Z Z Y Y V V V X X X X C C J J T T   N   N N G G B                                                                                                                                                                 |
+|b b b b b b b   Y Y V V P P P P     C J J J N N N N N N G G                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.4
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 245.0
+Ordem das peças: [17 16 22 27 25 14 12 13 21 6 26 1 5 10 9 3 2 23 28 24 8 19 7 0 4 11 20 18 15 ]
+Cortes: 211 [111][100]
+Largura de material usado: 34
+|R R R R R W O O A A V V B B   H H F F I I T   J J S S X Y Y P P P P                                                                                                                                                           |
+|G G R R R W a O O O   V V B B B H F F I T T J J c S S X Y Y                                                                                                                                                                   |
+|G G Q Q W W a Z Z O O M V V   B H H F F   J J C c c X X Y Y                                                                                                                                                                   |
+|Q Q Q Q W W a a Z O O M   V V V V V F F J J   C c c X X   L L                                                                                                                                                                 |
+|Q Q Q W W Z   a Z M M M M N   V V V V   J J   C X X X X L L L L L                                                                                                                                                             |
+|Q Q   W b Z Z Z Z   N M N N V V V K K K   J J C C E E E E E E L L                                                                                                                                                             |
+|D b b b b b b b N N N N N N V V   K K K   J J J C E U U U U U U U U                                                                                                                                                           |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.5
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 243.0
+Ordem das peças: [10 9 25 27 14 21 12 23 20 1 24 16 13 2 22 28 4 8 11 6 26 5 3 7 17 19 15 18 0 ]
+Cortes: 209 [108][101]
+Largura de material usado: 34
+|K K K   J J O O   V V B B       T M     Y Y S S   W E E E E E E                                                                                                                                                               |
+|K K K J J Z Z O O O V V B B B T T M   X Y Y S S   W E L L R R R R R                                                                                                                                                           |
+|C   J J I I Z G G O O V V   B M M M M X Y Y Q Q W W L L L L L R R R                                                                                                                                                           |
+|C J J Z I   Z G G O O c V V V V V M X X Q Q Q Q W W a F F L L                                                                                                                                                                 |
+|C J J Z Z Z Z b A A   c c   V V V V X X Q Q Q W W N a F F H H                                                                                                                                                                 |
+|C C J J b b b b b b b c c V V V X X X X Q Q N W N N a a F F H                                                                                                                                                                 |
+|D C J J J U U U U U U U U V V P P P P   N N N N N N   a F F H H                                                                                                                                                               |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.6
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 240.0
+Ordem das peças: [21 16 20 28 13 14 22 2 27 17 7 26 24 12 3 9 1 8 10 18 23 6 15 19 0 4 11 5 25 ]
+Cortes: 207 [106][101]
+Largura de material usado: 33
+|V V U U U U U U U U Q Q K K K M S S W C G G     J J X E E E E E E                                                                                                                                                             |
+|c V V R R R R R Q Q Q Q K K K M S S W C G G   J J   X E L L   Z Z                                                                                                                                                             |
+|c c V V   R R R Q Q Q O O M M M M W W C     J J T X X L L L L L Z                                                                                                                                                             |
+|c c a V V V V V Q Q     O O O M   W W C C J J T T X X F F Z L L Z                                                                                                                                                             |
+|H H a A A V V V V I I N Y Y O O W W B B C J J X X X X F F Z Z Z Z                                                                                                                                                             |
+|D H a a V V V   N I N N Y Y O O W b   B B B J J P P P P F F                                                                                                                                                                   |
+|  H H a V V N N N N N N Y Y b b b b b b b B J J J       F F                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.7
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 245.0
+Ordem das peças: [4 16 9 25 2 13 23 26 8 15 21 17 27 18 1 3 6 14 20 7 12 11 24 28 19 22 10 5 0 ]
+Cortes: 212 [111][101]
+Largura de material usado: 33
+|E E E E E E J J   C a H H V V R R R R R   B B U U U U U U U U   W                                                                                                                                                             |
+|E D Q Q   J J Z Z C a   H   V V   R R R b   B B B M   L L A A   W                                                                                                                                                             |
+|Q Q Q Q J J G G Z C a a H H X V V b b b b b b b B M L L L L L W W                                                                                                                                                             |
+|Q Q Q J J Z G G Z C C a N   X   V V V V V O O M M M M F F L L W W                                                                                                                                                             |
+|Q Q   J J Z Z Z Z N C N N X X Y Y   V V V V O O O M c F F   W W                                                                                                                                                               |
+|I I S S J J   N N N N N N X X Y Y V V V T K K K O O c c F F W                                                                                                                                                                 |
+|I   S S J J J P P P P X X X X Y Y V V T T K K K O O c c F F                                                                                                                                                                   |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 247.0
+Ordem das peças: [2 0 20 6 15 14 21 5 24 27 10 4 28 1 9 12 25 26 19 18 8 3 23 11 16 13 7 17 22 ]
+Cortes: 214 [112][102]
+Largura de material usado: 33
+|C G G O O   V V B B   H H F F E E E E E E J J I I L L R R R R R W                                                                                                                                                             |
+|C G G   O O O V V B B B H F F E a S S   J J M I L L L L L R R R W                                                                                                                                                             |
+|C P P P P T O O V V   B H H F F a S S J J   M Z Z   X L L Q Q W W                                                                                                                                                             |
+|C C Y Y T T O O c V V V V V F F a a J J M M M M Z   X Q Q Q Q W W                                                                                                                                                             |
+|D C Y Y K K K   c c   V V V V     a J J   Z M   Z X X Q Q Q W W N                                                                                                                                                             |
+|A A Y Y K K K   c c V V V     b       J J Z Z Z Z X X Q Q N W N N                                                                                                                                                             |
+|U U U U U U U U     V V b b b b b b b J J J   X X X X N N N N N N                                                                                                                                                             |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:OX
+Recombination prob.: 0.9
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 251.0
+Ordem das peças: [17 22 16 13 25 2 23 4 27 6 14 10 24 12 7 9 15 11 28 21 8 20 18 3 26 19 0 5 1 ]
+Cortes: 216 [111][105]
+Largura de material usado: 35
+|R R R R R W H H Z Z C E E E E E E L L     I I J J V V U U U U U U U U                                                                                                                                                         |
+|G G R R R W D H   Z C E T X O O L L L L L I J J S S V V     B B                                                                                                                                                               |
+|G G Q Q W W Z H H Z C T T X   O O O   L L J J c S S   V V     B B B                                                                                                                                                           |
+|Q Q Q Q W W Z Z Z Z C C X X Y Y   O O M J J   c c a F F V V V V V B                                                                                                                                                           |
+|Q Q Q W W N K K K A A C X X Y Y   O O M J J   c c a F F     V V V V                                                                                                                                                           |
+|Q Q N W N N K K K b X X X X Y Y   M M M M J J     a a F F V V V                                                                                                                                                               |
+|N N N N N N b b b b b b b P P P P     M   J J J     a F F V V                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.1
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 244.0
+Ordem das peças: [11 27 17 9 12 4 23 21 16 8 2 1 3 15 20 26 0 10 19 18 28 5 22 13 7 14 24 25 6 ]
+Cortes: 210 [107][103]
+Largura de material usado: 34
+|D L L P P P P Q Q   J J a S S X V V B B   H H F F G G W O O                                                                                                                                                                   |
+|L L L L L Q Q Q Q J J M a S S X C V V B B B H F F G G W   O O O Z Z                                                                                                                                                           |
+|I I T L L Q Q Q J J   M a a X X C   V V   B H H F F W W Y Y   O O Z                                                                                                                                                           |
+|I T T b   Q Q J J M M M M a X X C   c V V V V V F F W W Y Y Z O O Z                                                                                                                                                           |
+|b b b b b b b J J     M X X X X C C c c   V V V V W W N Y Y Z Z Z Z                                                                                                                                                           |
+|R R R R R K K K J J   E E E E E E C c c V V V   N W N N                                                                                                                                                                       |
+|A A R R R K K K J J J E U U U U U U U U V V N N N N N N                                                                                                                                                                       |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.2
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 239.0
+Ordem das peças: [17 16 22 21 13 23 28 24 11 9 20 25 12 1 14 18 10 0 26 5 2 3 27 6 8 15 7 19 4 ]
+Cortes: 203 [104][99]
+Largura de material usado: 36
+|R R R R R W V V A A L L U U U U U U U U J J B B     K K K C E E E E E E                                                                                                                                                       |
+|S S R R R W c V V L L L L L G G X I I J J Z Z B B B K K K C E                                                                                                                                                                 |
+|S S Q Q W W c c V V     L L G G X I J J     Z O O B   F F C                                                                                                                                                                   |
+|Q Q Q Q W W c c a V V V V V   X X J J Z     Z M O O O F F C C                                                                                                                                                                 |
+|Q Q Q W W N Y Y a     V V V V X X J J Z Z Z Z M H H O O F F C                                                                                                                                                                 |
+|Q Q N W N N Y Y a a V V V X X X X T J J   M M M M H O O F F b                                                                                                                                                                 |
+|N N N N N N Y Y D a V V P P P P T T J J J     M   H H b b b b b b b                                                                                                                                                           |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.3
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 236.0
+Ordem das peças: [2 9 10 25 16 24 8 27 20 14 22 11 7 5 13 21 6 1 26 17 12 28 23 3 18 4 0 19 15 ]
+Cortes: 201 [105][96]
+Largura de material usado: 35
+|C Y Y I I J J A A   Q Q H H F F S S W V V B B R R R R R M E E E E E E                                                                                                                                                         |
+|C Y Y I J J Z Z Q Q Q Q   H F F S S W c V V B B B R R R M E X                                                                                                                                                                 |
+|C Y Y J J G G Z Q Q Q O O H H F F W W c c V V   B   M M M M X                                                                                                                                                                 |
+|C C J J Z G G Z Q Q L L O O O F F W W c c a V V V V V   M X X                                                                                                                                                                 |
+|D C J J Z Z Z Z b L L L L L O O W W     N a     V V V V   X X                                                                                                                                                                 |
+|K K K J J b b b b b b b L L O O W N   N N a a V V V T X X X X                                                                                                                                                                 |
+|K K K J J J U U U U U U U U   N N N N N N   a V V T T P P P P                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.4
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 241.0
+Ordem das peças: [4 25 16 22 2 9 23 11 5 7 3 26 14 27 28 20 24 18 10 21 1 12 15 17 13 0 19 6 8 ]
+Cortes: 207 [108][99]
+Largura de material usado: 34
+|E E E E E E Q Q W C Y Y I I J J X F F O O   V V B B         M                                                                                                                                                                 |
+|E c Z Z Q Q Q Q W C Y Y I J J   X F F   O O O V V B B B     M                                                                                                                                                                 |
+|D c c Z Q Q Q W W C Y Y J J T X X a F F G G O O V V   B M M M M                                                                                                                                                               |
+|Z c c Z Q Q   W W C C J J T T X X a F F G G O O   V V V V V M                                                                                                                                                                 |
+|Z Z Z Z H H W W L L C J J X X X X a a U U U U U U U U V V V V     N                                                                                                                                                           |
+|S S K K K H W L L L L L J J P P P P a b   R R R R R V V V   N   N N                                                                                                                                                           |
+|S S K K K H H A A   L L J J J   b b b b b b b R R R V V N N N N N N                                                                                                                                                           |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.5
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 242.0
+Ordem das peças: [4 9 25 2 16 10 27 21 11 5 6 14 0 8 7 23 24 17 22 13 1 20 26 12 3 19 28 15 18 ]
+Cortes: 209 [108][101]
+Largura de material usado: 33
+|E E E E E E J J       Q Q V V   I I H H   Y Y R R R R R W B B                                                                                                                                                                 |
+|E K K K   J J Z Z Q Q Q Q   V V I   T H   Y Y X a R R R W c B B B                                                                                                                                                             |
+|C K K K J J G G Z Q Q Q O O   V V T T H H Y Y X a     W W c c M B                                                                                                                                                             |
+|C F F J J Z G G Z Q Q L L O O O V V V V V   X X a a   W W c c M                                                                                                                                                               |
+|C F F J J Z Z Z Z b L L L L L O O   V V V V X X   a W W N M M M M                                                                                                                                                             |
+|C C F F J J b b b b b b b L L O O V V V X X X X   N W N N S S M                                                                                                                                                               |
+|D C F F J J J A A U U U U U U U U V V P P P P N N N N N N S S                                                                                                                                                                 |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.6
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 246.0
+Ordem das peças: [17 22 16 13 14 26 23 9 25 7 24 20 2 28 1 3 4 5 19 21 0 27 10 8 15 12 6 11 18 ]
+Cortes: 210 [108][102]
+Largura de material usado: 36
+|R R R R R W O O   B B     I I J J   Y Y C E E E E E E V V                                                                                                                                                                     |
+|D T R R R W a O O O B B B I J J Z Z Y Y C E F F K K K M V V                                                                                                                                                                   |
+|T T Q Q W W a H H O O X B J J G G Z Y Y C   F F K K K M   V V                                                                                                                                                                 |
+|Q Q Q Q W W a a H O O X J J Z G G Z S S C C   F F M M M M   V V V V V                                                                                                                                                         |
+|Q Q Q W W N c a H H X X J J Z Z Z Z S S   C   F F L L M         V V V V                                                                                                                                                       |
+|Q Q N W N N c c A A X X   J J U U U U U U U U b L L L L L     V V V                                                                                                                                                           |
+|N N N N N N c c X X X X   J J J P P P P b b b b b b b L L     V V                                                                                                                                                             |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.7
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 252.0
+Ordem das peças: [24 16 26 9 11 25 21 23 20 3 5 15 18 10 14 6 4 27 0 12 13 1 7 19 17 8 22 2 28 ]
+Cortes: 218 [113][105]
+Largura de material usado: 34
+|Y Y S S a K K K   J J V V U U U U U U U U O O   B B R R R R R W C                                                                                                                                                             |
+|Y Y S S a K K K J J Z Z V V   E E E E E E X O O O B B B R R R W C                                                                                                                                                             |
+|Y Y Q Q a a   J J G G Z   V V E       I I X     O O M B     W W C                                                                                                                                                             |
+|Q Q Q Q   a J J Z G G Z F F V V V V V I X X H H O O M       W W C C                                                                                                                                                           |
+|Q Q Q L L   J J Z Z Z Z F F     V V V V X X   H M M M M   W W N c C                                                                                                                                                           |
+|Q Q L L L L L J J A A T   F F V V V X X X X b H H   M   N W N N c c                                                                                                                                                           |
+|D P P P P L L J J J T T   F F V V     b b b b b b b N N N N N N c c                                                                                                                                                           |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.8
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 252.0
+Ordem das peças: [12 21 23 19 1 2 20 7 3 27 15 0 5 6 11 18 16 22 26 13 25 17 9 28 14 24 4 8 10 ]
+Cortes: 218 [116][102]
+Largura de material usado: 34
+|D T M V V B B P P P P C F F   L L R R R R R W a E E E E E E J J                                                                                                                                                               |
+|T T M   V V B B B S S C F F L L L L L R R R W a E Z Z     J J Y Y                                                                                                                                                             |
+|M M M M X V V   B S S C   F F c   L L Q Q W W a a   Z   J J   Y Y                                                                                                                                                             |
+|H H M   X   V V V V V C C F F c c Q Q Q Q W W Z a   Z J J O O Y Y                                                                                                                                                             |
+|  H   X X A A   V V V V C b   c c Q Q Q W W N Z Z Z Z J J   O O O                                                                                                                                                             |
+|  H H X X G G V V V b b b b b b b Q Q N W N N I I K K K J J     O O                                                                                                                                                           |
+|  X X X X G G V V U U U U U U U U N N N N N N I   K K K J J J   O O                                                                                                                                                           |
+
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:CX2
+Recombination prob.: 0.9
+Mutation:EM
+Mutation prob.: 0.4
+fitness: 254.0
+Ordem das peças: [9 18 10 25 21 19 3 12 23 2 4 24 16 17 11 5 14 13 1 8 0 20 26 22 6 28 27 15 7 ]
+Cortes: 219 [114][105]
+Largura de material usado: 35
+|S S   J J V V A A Y Y G G M E E E E E E F F O O   B B U U U U U U U U                                                                                                                                                         |
+|S S J J T C V V   Y Y G G M E X     Q Q F F   O O O B B B W c H H                                                                                                                                                             |
+|D J J T T C   V V Y Y M M M M X Q Q Q Q   F F a   O O   B W c c H                                                                                                                                                             |
+|J J K K K C Z Z V V V V V M X X Q Q Q L L F F a   O O   W W c c H H                                                                                                                                                           |
+|J J K K K C C Z I I V V V V X X Q Q L L L L L a a   N   W W                                                                                                                                                                   |
+|  J J   Z   C Z I V V V X X X X R R R R R L L N a N N W W     b                                                                                                                                                               |
+|  J J J Z Z Z Z   V V P P P P       R R R N N N N N N W b b b b b b b                                                                                                                                                         |

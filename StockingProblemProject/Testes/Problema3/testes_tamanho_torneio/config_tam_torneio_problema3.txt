@@ -2,7 +2,7 @@ Runs: 50
 
 Population_size: 150
 
-Max_generations: 150
+Max_generations: 175
 
 //--------------------------------
 
@@ -14,7 +14,7 @@ Tournament_size: 2, 4, 6, 8, 10
 
 Recombination: pmx
 
-Recombination_probability: 0.6
+Recombination_probability: 0.4
 
 //--------------------------------
 
@@ -28,7 +28,7 @@ Probability_of_1s: 0.05
 
 //--------------------------------
 
-Problem_file: Problema2.txt
+Problem_file: Problema3.txt
 
 //--------------------------------
 

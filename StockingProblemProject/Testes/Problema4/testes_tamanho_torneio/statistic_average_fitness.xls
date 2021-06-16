@@ -1,0 +1,6 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+100	200	Tournament(2)	PMX	0,4	EM	0,4		250,34	4,352516513466664
+100	200	Tournament(4)	PMX	0,4	EM	0,4		252,76	4,667161878486752
+100	200	Tournament(6)	PMX	0,4	EM	0,4		252,12	6,256644468083513
+100	200	Tournament(8)	PMX	0,4	EM	0,4		253,8	5,366563145999495
+100	200	Tournament(10)	PMX	0,4	EM	0,4		252,94	5,041468040164491
