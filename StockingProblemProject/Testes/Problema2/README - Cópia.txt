@@ -19,7 +19,6 @@ Assim executando testes gerais a este mais precisos.
 	0.05		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
 	0.01		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
 
-
 Seguimos então com o melhor valor dos resultados a cima para os testes do tamanho da população
 
 -->Testes ao tamanho da população
