@@ -2,6 +2,7 @@ Para o dataset Problema2 começámos baseados nos testes preliminares feitos ao 
 Assim executando testes gerais a este mais precisos. 
 
 -->Testes Gerais ao dataset Problema2
+<<<<<<< Updated upstream
 	Com isto pudémos concluir que por ser um dataset mais pequeno não havia muita descrepância de fitness. No entanto começamos a ver 
 	certas combinações a destacarem-se por aparecerem mais frequêntemente com valores mais baixos.
 
@@ -18,6 +19,24 @@ Assim executando testes gerais a este mais precisos.
 	0			100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
 	0.05		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
 	0.01		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
+=======
+Com isto pudémos concluir que por ser um dataset mais pequeno não havia muita descrepância de fitness. No entanto começamos a ver 
+certas combinações a destacarem-se por aparecerem mais frequêntemente com valores mais baixos.
+
+Apresento então o top10 resultados ordenados por Average(fitness):
+(Devido a algum problema de configuração o desvio padrão não está no formato desejado.)
+
+Prob 0's	Population size:	Max generations:	Selection:		Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+0			150					150					Tournament(4)	PMX				0,8						EM			0,4					305,22		5.185.711.137.346.540
+0.05		150					150					Tournament(4)	PMX				0,8						EM			0,4					305,22		5.185.711.137.346.540
+0.01		150					150					Tournament(4)	PMX				0,8						EM			0,4					305,22		5.185.711.137.346.540
+0			150					150					Tournament(6)	PMX				0,8						EM			0,4					305,38		4.922.966.585.301.990
+0.05		150					150					Tournament(6)	PMX				0,8						EM			0,4					305,38		4.922.966.585.301.990
+0.01		150					150					Tournament(6)	PMX				0,8						EM			0,4					305,38		4.922.966.585.301.990
+0			100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
+0.05		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
+0.01		100					150					Tournament(2)	PMX				0,6						EM			0,4					305,8		4.715.930.449.020.630
+>>>>>>> Stashed changes
 
 Seguimos então com o melhor valor dos resultados a cima para os testes do tamanho da população
 

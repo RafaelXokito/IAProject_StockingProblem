@@ -1,0 +1,36 @@
+Runs: 50
+
+Population_size: 50, 100, 150, 200
+
+Max_generations: 50, 100, 150, 200
+
+//--------------------------------
+
+Selection: tournament
+
+Tournament_size: 2
+
+//--------------------------------
+
+Recombination: pmx
+
+Recombination_probability: 0.6
+
+//--------------------------------
+
+Mutation: insert, exchange, displacement
+
+Mutation_probability: 0.3
+
+//--------------------------------
+
+Probability_of_1s: 0.05
+
+//--------------------------------
+
+Problem_file: Problema1.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage
