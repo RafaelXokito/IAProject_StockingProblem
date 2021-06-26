@@ -15,11 +15,10 @@ public class RecombinationOrder<I extends IntVectorIndividual, P extends Problem
         super(probability);
     }
 
-    //ORDER CROSS ORVER OPERATOR
+    //ORDER CROSSOVER OPERATOR
     //https://www.hindawi.com/journals/cin/2017/7430125/
     @Override
     public void recombine(I ind1, I ind2) {
-        //TODO
         child1 = new int[ind1.getNumGenes()];
         child2 = new int[ind2.getNumGenes()];
         cut1 = GeneticAlgorithm.random.nextInt(ind1.getNumGenes());
@@ -130,7 +129,6 @@ public class RecombinationOrder<I extends IntVectorIndividual, P extends Problem
 
     @Override
     public String toString(){
-        //TODO
         return "OX";
     }
 }

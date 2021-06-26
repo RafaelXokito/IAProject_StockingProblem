@@ -9,7 +9,6 @@ import ga.Population;
 import java.util.Random;
 
 public class RandomAlgorithm<I extends Individual, P extends Problem<I>> extends Algorithm<I, P> {
-    //TODO this class might require the definition of additional methods and/or attributes
     private I ind;
     public RandomAlgorithm(int maxIterations, Random rand) {
         super(maxIterations, rand);
@@ -17,7 +16,6 @@ public class RandomAlgorithm<I extends Individual, P extends Problem<I>> extends
 
     @Override
     public I run(P problem) {
-        //verificar com o professor
         ind = globalBest = problem.getNewIndividual();
         globalBest.computeFitness();
         fireIterationEnded(new AlgorithmEvent(this));
