@@ -57,7 +57,6 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
             }while(problem.getItems().get(genome[i-1]).getColumns() > problem.getMaterialHeight() && (auxRotation == ROTACAO_VERTICAL || auxRotation == 3));
             genome[i] = auxRotation;
             //System.out.println(genome[i]-1 + " " + auxRotation);
-
         }
         verticalCuts = 0;
         horizontalCuts = 0;
@@ -86,18 +85,12 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
             //Corre todos os items
             Item item = problem.getItems().get(genome[index]);
             Item itemRotated = new Item(item);
-            /*System.out.print(item.getId());
-            System.out.print(item.getRepresentation());
-            System.out.println("\nOriginal: "+item.toString());*/
 
             int rotationItem = genome[index+1];
             for (int i = 0; i < rotationItem; i++) {
                 itemRotated.setMatrix(rotateMatrixBy90Degrees(itemRotated));
             }
 
-            /*System.out.print(item.getId());
-            System.out.print(item.getRepresentation());
-            System.out.println("\nrotation: "+rotationItem+item.toString());*/
             for (int columnMaterial = 0; columnMaterial < materialCut[0].length; columnMaterial++) {
                 //Corre todas as colunas do material, ou até encontrar lugar para meter a peça
                 for (int lineMaterial = 0; lineMaterial < materialCut.length; lineMaterial++) {
@@ -133,14 +126,6 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
                 }
             }
         }
-        /*for (int columnMaterial = 0; columnMaterial < materialCut[0].length; columnMaterial++) {
-            for (int lineMaterial = 0; lineMaterial < materialCut.length; lineMaterial++) {
-                if(materialCut[lineMaterial][columnMaterial]  != 0){
-                    widthMaterialUsed = columnMaterial;
-                    break;
-                }
-            }
-        }*/
     }
 
     private int[][] rotateMatrixBy90Degrees(Item item) {

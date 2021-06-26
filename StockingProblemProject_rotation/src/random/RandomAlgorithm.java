@@ -21,7 +21,7 @@ public class RandomAlgorithm<I extends Individual, P extends Problem<I>> extends
         ind = globalBest = problem.getNewIndividual();
         globalBest.computeFitness();
         fireIterationEnded(new AlgorithmEvent(this));
-        for (t = 1; t < maxIterations; t++) {
+        for (t = 1; t < maxIterations; t+=2) {
             this.ind = problem.getNewIndividual();
             this.ind.computeFitness();
             if (this.ind.compareTo(globalBest) > 0) {
