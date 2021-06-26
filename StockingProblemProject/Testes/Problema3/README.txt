@@ -47,6 +47,7 @@ Max_generations: 175
 
 Tournament_size: 2, 4, 6, 8, 10
 
+Top 5
 Population size:	Max generations:	Selection:		Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
 150					175					Tournament(2)	PMX				0,4						EM			0,4					340,74		4,983211816
 150					175					Tournament(10)	PMX				0,4						EM			0,4					343,5		6,862215386
@@ -122,7 +123,7 @@ Prosseguindo então com o melhor resultado dos testes anteriores para os próxim
 
 Mutation:	Mutation prob,:	Average:
 -----------------------------------------
-Inse		0,1				349
+Insert		0,1				349
 			0,2				344,58
 			0,3				341,52
 			0,4				344,88
