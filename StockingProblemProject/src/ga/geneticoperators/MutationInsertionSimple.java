@@ -12,7 +12,6 @@ public class MutationInsertionSimple<I extends IntVectorIndividual, P extends Pr
 
     @Override
     public void mutate(I ind) {
-        //TODO
         int gen1Index = GeneticAlgorithm.random.nextInt(ind.getNumGenes());
         int gen2Index;
         do {

@@ -12,11 +12,6 @@ public class MutationDisplacement<I extends IntVectorIndividual, P extends Probl
 
     @Override
     public void mutate(I ind) {
-        /*System.out.println(" ");
-        for (int i = 0; i < ind.getNumGenes(); i++) {
-            System.out.print(ind.getGene(i) + " ");
-        }
-        System.out.println(" ");*/
 
         //criação dos cortes
         int cut1 = GeneticAlgorithm.random.nextInt(ind.getNumGenes());
@@ -24,9 +19,6 @@ public class MutationDisplacement<I extends IntVectorIndividual, P extends Probl
         do {
             cut2 = GeneticAlgorithm.random.nextInt(ind.getNumGenes());
         }while (cut1==cut2);
-
-        //System.out.print("cut1: "+cut1+" cut2: "+cut2);
-        //System.out.println(" ");
 
         //tamanho da subSequência (subSequência é o tamanho/numero de genes)
         int subSequenceSize = 0;
@@ -39,10 +31,6 @@ public class MutationDisplacement<I extends IntVectorIndividual, P extends Probl
         //Posição para inserir a sequência
         int position1 = GeneticAlgorithm.random.nextInt(ind.getNumGenes());
         int position2 = ((position1+subSequenceSize-1)%ind.getNumGenes());
-
-
-        //System.out.print("pos1: "+position1+" pos2: "+position2);
-        //System.out.println(" ");
 
 
         if (cut1 == position1)
