@@ -124,3 +124,143 @@ Population size:	Max generations:	Recombination:	Recombination prob.:	Mutation p
 -->Tamanho do torneio
 Variámos o valor do torneio em:
 Tournament_size: 2, 4, 6, 8, 10
+
+Population size:	Max generations:	Selection:		Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+150					100					Tournament(2)	PMX				0,6						EM			0,3					284,04		0,195959179
+150					100					Tournament(4)	PMX				0,6						EM			0,3					284,5		0,854400375
+150					100					Tournament(6)	PMX				0,6						EM			0,3					284,6		1,039230485
+150					100					Tournament(10)	PMX				0,6						EM			0,3					284,86		0,98
+150					100					Tournament(8)	PMX				0,6						EM			0,3					284,88		1,259206099
+
+Os melhores resultados vieram do torneio(2)
+Prosseguindo com o melhor resultado para o próximo teste
+
+-->Testes à recombinação (Recombination, Recombination_probability)
+
+Relativamente à recombinação tentámos alargar a nossa visão relativa às probabilidades, já que os testes perliminares não tinham sido conclusivos.
+	Recombination: pmx, ox, cx2
+	Recombination_probability: 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9
+
+
+
+Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+--------------------------------------------------------------------------------------------------
+CX2				0,2						EM			0,3					284,44		0,725534286
+				0,1						EM			0,3					284,52		0,83042158
+				0,3						EM			0,3					284,56		0,752595509
+				0,4						EM			0,3					285,02		1,067520492
+				0,5						EM			0,3					285,52		0,964157663
+				0,9						EM			0,3					285,76		0,991160935
+				0,6						EM			0,3					285,9		1,170469991
+				0,7						EM			0,3					285,98		1,303687079
+				0,8						EM			0,3					286			1,2489996
+--------------------------------------------------------------------------------------------------
+OX				0,3						EM			0,3					284,44		0,697423831
+				0,4						EM			0,3					284,5		0,640312424
+				0,2						EM			0,3					284,64		0,91126286
+				0,1						EM			0,3					284,72		1,020588066
+				0,5						EM			0,3					285,06		1,027813213
+				0,6						EM			0,3					285,62		1,056219674
+				0,7						EM			0,3					285,62		1,093434955
+				0,8						EM			0,3					285,66		1,176605286
+				0,9						EM			0,3					285,66		1,159482643
+--------------------------------------------------------------------------------------------------
+PMX				0,6						EM			0,3					284,04		0,195959179
+				0,5						EM			0,3					284,2		0,447213595
+				0,4						EM			0,3					284,24		0,512249939
+				0,7						EM			0,3					284,32		0,507543102
+				0,9						EM			0,3					284,52		0,538144962
+				0,3						EM			0,3					284,58		0,961041102
+				0,8						EM			0,3					284,64		0,74188948
+				0,1						EM			0,3					284,78		1,08240473
+				0,2						EM			0,3					284,78		1,08240473
+--------------------------------------------------------------------------------------------------
+
+Top 5 avaliado por fitness:
+Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+PMX				0,6						EM			0,3					284,04		0,195959179
+PMX				0,5						EM			0,3					284,2		0,447213595
+PMX				0,4						EM			0,3					284,24		0,512249939
+PMX				0,7						EM			0,3					284,32		0,507543102
+OX				0,3						EM			0,3					284,44		0,697423831
+
+Prosseguindo então com o melhor resultado dos testes anteriores para os próximos testes
+	Rec.Prob	Average
+	PMX	0,6		284,04 *MELHOR RESULTADO*
+
+-->Testes à mutação
+	No desenvolvimento do projeto, como extra, criámos algumas mutações extra, então nestes testes fizémos variar as mesmas
+	com probabilidades demutação diferentes:
+	Mutation: insert, exchange, displacement, simpleinversion, invertionsimple, inversiondisplacement
+	Mutation_probability: 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9
+
+	Pudemos então afirmar que a mutação que mais se destacou por ter um valor de fitness mais baixo foi a 'EM' com uma
+	probabilidade de mutação de 0.3.
+
+Mutation:	Mutation prob.:	Average:
+-----------------------------------------
+DM			0,2				284,78
+			0,1				285,14
+			0,3				285,32
+			0,6				285,62
+			0,7				285,74
+			0,4				285,9
+			0,5				285,9
+			0,9				285,92
+			0,8				285,94
+-----------------------------------------
+EM			0,3				284,04 *Melhor Resultado*
+			0,4				284,2
+			0,5				284,2
+			0,2				284,24
+			0,9				284,26
+			0,6				284,28
+			0,8				284,32
+			0,1				284,4
+			0,7				284,4
+-----------------------------------------
+IDM			0,1				284,82
+			0,2				285,1
+			0,6				285,48
+			0,3				285,5
+			0,4				285,52
+			0,5				285,62
+			0,8				285,66
+			0,7				285,86
+			0,9				285,96
+-----------------------------------------
+Insert		0,4				284,06
+			0,3				284,14
+			0,5				284,16
+			0,7				284,2
+			0,6				284,22
+			0,8				284,26
+			0,9				284,26
+			0,2				284,3
+			0,1				284,48
+-----------------------------------------
+ISM			0,5				285,36
+			0,3				285,4
+			0,1				285,42
+			0,9				285,44
+			0,2				285,5
+			0,6				285,58
+			0,7				285,6
+			0,4				285,62
+			0,8				285,7
+-----------------------------------------
+SIM			0,2				284,44
+			0,4				284,8
+			0,3				284,82
+			0,1				284,84
+			0,5				284,94
+			0,7				285,14
+			0,9				285,22
+			0,6				285,24
+			0,8				285,36
+-----------------------------------------
+
+
+Assim, depois destes testes assumimos que os melhores parâmetros são:
+Population size:	Max generations:	Selection:		Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:
+150					100					Tournament(2)	PMX				0.6						EM			0,3					284,04
