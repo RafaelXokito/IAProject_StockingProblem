@@ -51,6 +51,7 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
         verticalCuts = 0;
         horizontalCuts = 0;
         widthMaterialUsed = 0;
+
         ArrayList<Item> items = new ArrayList<>();
         for (int index = 0; index < genome.length; index++) {
             items.add(problem.getItems().get(genome[index]));
@@ -96,7 +97,7 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
     @Override
     public double computeFitness() {
         processMaterialCut();
-        fitness = verticalCuts + horizontalCuts + widthMaterialUsed;
+        fitness = (verticalCuts + horizontalCuts)*0.3 + widthMaterialUsed;
         return fitness;
     }
 

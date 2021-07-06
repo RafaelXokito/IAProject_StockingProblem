@@ -11,16 +11,23 @@ public class StockingProblem implements Problem<StockingProblemIndividual> {
     private ArrayList<Item> items;
 
     private int maxMaterialWidth;
-    //TODO this class might require the definition of additional methods and/or attributes
 
     public StockingProblem(int materialHeight, ArrayList<Item> items) {
         this.materialHeight = materialHeight;
         this.items = items;
-        //TODO this construtor might require additional code
-
+        //[numPeça rotação]
+        /*
+        *
+        * 1 1
+        * 1 1
+        * 1 1
+        * 1 1
+        * num colunas = 2
+        * maxMaterialWidth
+        * */
         maxMaterialWidth = 0;
         for (Item item : items) {
-            maxMaterialWidth+= item.getColumns();
+            maxMaterialWidth+= item.getColumns() > item.getLines() ? item.getColumns() : item.getLines();
         }
     }
 

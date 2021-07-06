@@ -39,7 +39,6 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
             aux = Algorithm.random.nextInt(size);
             j = 0;
             do { //[1 2 3 2]
-
                 if(genome[j] == aux && i != 0){
                     i-=2;
                     break;
